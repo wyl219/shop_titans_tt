@@ -15,6 +15,7 @@ def en2zh(en:str="",zh:str=""):
     for k,v in t.items():
         if v==en:
             return t1[k]
+    return en
 
 
 
