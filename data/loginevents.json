@@ -1,0 +1,191 @@
+{
+    "lunar01": {
+        "uid": "lunar01",
+        "family": "lunar",
+        "index": 1,
+        "begin": "2024-02-09",
+        "end": "2024-02-10",
+        "target": "All",
+        "reward": "gems:25"
+    },
+    "lunar02": {
+        "uid": "lunar02",
+        "family": "lunar",
+        "index": 2,
+        "begin": "2024-02-10",
+        "end": "2024-02-11",
+        "target": "All",
+        "reward": "gems:50"
+    },
+    "lunar03": {
+        "uid": "lunar03",
+        "family": "lunar",
+        "index": 3,
+        "begin": "2024-02-11",
+        "end": "2024-02-12",
+        "target": "All",
+        "reward": "gems:75"
+    },
+    "lunar04": {
+        "uid": "lunar04",
+        "family": "lunar",
+        "index": 4,
+        "begin": "2024-02-12",
+        "end": "2024-02-13",
+        "target": "All",
+        "reward": "gems:100"
+    },
+    "lunar05": {
+        "uid": "lunar05",
+        "family": "lunar",
+        "index": 5,
+        "begin": "2024-02-13",
+        "end": "2024-02-14",
+        "target": "All",
+        "reward": "gems:125"
+    },
+    "lunar06": {
+        "uid": "lunar06",
+        "family": "lunar",
+        "index": 6,
+        "begin": "2024-02-14",
+        "end": "2024-02-15",
+        "target": "All",
+        "reward": "sitem:antique_shard,50"
+    },
+    "lunar07": {
+        "uid": "lunar07",
+        "family": "lunar",
+        "index": 7,
+        "begin": "2024-02-15",
+        "end": "2024-02-16",
+        "target": "All",
+        "reward": "sitem:bp_upgrade,100"
+    },
+    "anniversary01": {
+        "uid": "anniversary01",
+        "family": "anniversary",
+        "index": 1,
+        "begin": "2024-04-16",
+        "end": "2024-04-17",
+        "target": "World",
+        "reward": "gems:50"
+    },
+    "anniversary02": {
+        "uid": "anniversary02",
+        "family": "anniversary",
+        "index": 2,
+        "begin": "2024-04-17",
+        "end": "2024-04-18",
+        "target": "World",
+        "reward": "gems:75"
+    },
+    "anniversary03": {
+        "uid": "anniversary03",
+        "family": "anniversary",
+        "index": 3,
+        "begin": "2024-04-18",
+        "end": "2024-04-19",
+        "target": "World",
+        "reward": "gems:100"
+    },
+    "anniversary04": {
+        "uid": "anniversary04",
+        "family": "anniversary",
+        "index": 4,
+        "begin": "2024-04-19",
+        "end": "2024-04-20",
+        "target": "World",
+        "reward": "gems:150"
+    },
+    "anniversary05": {
+        "uid": "anniversary05",
+        "family": "anniversary",
+        "index": 5,
+        "begin": "2024-04-20",
+        "end": "2024-04-21",
+        "target": "World",
+        "reward": "sitem:antique_shard,50"
+    },
+    "anniversary06": {
+        "uid": "anniversary06",
+        "family": "anniversary",
+        "index": 6,
+        "begin": "2024-04-21",
+        "end": "2024-04-22",
+        "target": "World",
+        "reward": "sitem:bp_unlock,75"
+    },
+    "anniversary07": {
+        "uid": "anniversary07",
+        "family": "anniversary",
+        "index": 7,
+        "begin": "2024-04-22",
+        "end": "2024-04-23",
+        "target": "World",
+        "reward": "sitem:bp_upgrade,100"
+    },
+    "2024anniversary01": {
+        "uid": "2024anniversary01",
+        "family": "2024anniversary",
+        "index": 1,
+        "begin": "2024-06-12",
+        "end": "2024-06-13",
+        "target": "All",
+        "reward": "gems:50"
+    },
+    "2024anniversary02": {
+        "uid": "2024anniversary02",
+        "family": "2024anniversary",
+        "index": 2,
+        "begin": "2024-06-13",
+        "end": "2024-06-14",
+        "target": "All",
+        "reward": "gems:75"
+    },
+    "2024anniversary03": {
+        "uid": "2024anniversary03",
+        "family": "2024anniversary",
+        "index": 3,
+        "begin": "2024-06-14",
+        "end": "2024-06-15",
+        "target": "All",
+        "reward": "gems:100"
+    },
+    "2024anniversary04": {
+        "uid": "2024anniversary04",
+        "family": "2024anniversary",
+        "index": 4,
+        "begin": "2024-06-15",
+        "end": "2024-06-16",
+        "target": "All",
+        "reward": "gems:150"
+    },
+    "2024anniversary05": {
+        "uid": "2024anniversary05",
+        "family": "2024anniversary",
+        "index": 5,
+        "begin": "2024-06-16",
+        "end": "2024-06-17",
+        "target": "All",
+        "reward": "sitem:antique_shard,50"
+    },
+    "2024anniversary06": {
+        "uid": "2024anniversary06",
+        "family": "2024anniversary",
+        "index": 6,
+        "begin": "2024-06-17",
+        "end": "2024-06-18",
+        "target": "All",
+        "reward": "sitem:bp_unlock,75"
+    },
+    "2024anniversary07": {
+        "uid": "2024anniversary07",
+        "family": "2024anniversary",
+        "index": 7,
+        "begin": "2024-06-18",
+        "end": "2024-06-19",
+        "target": "All",
+        "reward": "sitem:bp_upgrade,100"
+    }
+}

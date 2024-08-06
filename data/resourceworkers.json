@@ -1,0 +1,57 @@
+{
+    "fabric": {
+        "uid": "fabric",
+        "tier": 2,
+        "phasingMasks": "0x0"
+    },
+    "gems": {
+        "uid": "gems",
+        "tier": 3,
+        "phasingMasks": "0x0"
+    },
+    "herbs": {
+        "uid": "herbs",
+        "tier": 1,
+        "phasingMasks": "0x0"
+    },
+    "iron": {
+        "uid": "iron",
+        "tier": 1,
+        "phasingMasks": "0x0"
+    },
+    "ironwood": {
+        "uid": "ironwood",
+        "tier": 2,
+        "phasingMasks": "0x0"
+    },
+    "leather": {
+        "uid": "leather",
+        "tier": 1,
+        "phasingMasks": "0x0"
+    },
+    "mana": {
+        "uid": "mana",
+        "tier": 3,
+        "phasingMasks": "0x0"
+    },
+    "oils": {
+        "uid": "oils",
+        "tier": 2,
+        "phasingMasks": "0x0"
+    },
+    "steel": {
+        "uid": "steel",
+        "tier": 2,
+        "phasingMasks": "0x0"
+    },
+    "wood": {
+        "uid": "wood",
+        "tier": 1,
+        "phasingMasks": "0x0"
+    },
+    "essence": {
+        "uid": "essence",
+        "tier": 4,
+        "phasingMasks": "0b1100"
+    }
+}

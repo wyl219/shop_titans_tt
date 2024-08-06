@@ -1,0 +1,330 @@
+{
+    "reward01": {
+        "uid": "reward01",
+        "index": 1,
+        "pointsReq": 1,
+        "reward": "gems:10",
+        "rewardVip": "gems:5",
+        "rewardTier": null
+    },
+    "reward02": {
+        "uid": "reward02",
+        "index": 2,
+        "pointsReq": 5,
+        "reward": "gold:5000",
+        "rewardVip": "gold:2000",
+        "rewardTier": null
+    },
+    "reward03": {
+        "uid": "reward03",
+        "index": 3,
+        "pointsReq": 10,
+        "reward": "item:bp_unlock,20",
+        "rewardVip": "item:bp_unlock,10",
+        "rewardTier": null
+    },
+    "reward04": {
+        "uid": "reward04",
+        "index": 4,
+        "pointsReq": 20,
+        "reward": "item:bp_upgrade,25",
+        "rewardVip": "item:bp_upgrade,10",
+        "rewardTier": null
+    },
+    "reward05": {
+        "uid": "reward05",
+        "index": 5,
+        "pointsReq": 50,
+        "reward": "item:token_lilu,20",
+        "rewardVip": "item:token_lilu,10",
+        "rewardTier": null
+    },
+    "reward06": {
+        "uid": "reward06",
+        "index": 6,
+        "pointsReq": 100,
+        "reward": "gold:250000",
+        "rewardVip": "gold:100000",
+        "rewardTier": null
+    },
+    "reward07": {
+        "uid": "reward07",
+        "index": 7,
+        "pointsReq": 150,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward08": {
+        "uid": "reward08",
+        "index": 8,
+        "pointsReq": 200,
+        "reward": "gems:25",
+        "rewardVip": "gems:10",
+        "rewardTier": null
+    },
+    "reward09": {
+        "uid": "reward09",
+        "index": 9,
+        "pointsReq": 250,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward10": {
+        "uid": "reward10",
+        "index": 10,
+        "pointsReq": 300,
+        "reward": "item:bp_unlock,30",
+        "rewardVip": "item:bp_unlock,15",
+        "rewardTier": null
+    },
+    "reward11": {
+        "uid": "reward11",
+        "index": 11,
+        "pointsReq": 400,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward12": {
+        "uid": "reward12",
+        "index": 12,
+        "pointsReq": 500,
+        "reward": "item:bp_upgrade,30",
+        "rewardVip": "item:bp_upgrade,15",
+        "rewardTier": null
+    },
+    "reward13": {
+        "uid": "reward13",
+        "index": 13,
+        "pointsReq": 750,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward14": {
+        "uid": "reward14",
+        "index": 14,
+        "pointsReq": 1000,
+        "reward": "gems:100",
+        "rewardVip": "gems:50",
+        "rewardTier": null
+    },
+    "reward15": {
+        "uid": "reward15",
+        "index": 15,
+        "pointsReq": 1250,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward16": {
+        "uid": "reward16",
+        "index": 16,
+        "pointsReq": 1500,
+        "reward": "item:token_donovan,30",
+        "rewardVip": "item:token_donovan,15",
+        "rewardTier": null
+    },
+    "reward17": {
+        "uid": "reward17",
+        "index": 17,
+        "pointsReq": 2000,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward18": {
+        "uid": "reward18",
+        "index": 18,
+        "pointsReq": 2500,
+        "reward": "item:bp_unlock,50",
+        "rewardVip": "item:bp_unlock,20",
+        "rewardTier": null
+    },
+    "reward19": {
+        "uid": "reward19",
+        "index": 19,
+        "pointsReq": 3000,
+        "reward": "legendChance+0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward20": {
+        "uid": "reward20",
+        "index": 20,
+        "pointsReq": 3500,
+        "reward": "item:bp_upgrade,50",
+        "rewardVip": "item:bp_upgrade,25",
+        "rewardTier": null
+    },
+    "reward21": {
+        "uid": "reward21",
+        "index": 21,
+        "pointsReq": 4000,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward22": {
+        "uid": "reward22",
+        "index": 22,
+        "pointsReq": 4500,
+        "reward": "gold:50000000",
+        "rewardVip": "gold:25000000",
+        "rewardTier": null
+    },
+    "reward23": {
+        "uid": "reward23",
+        "index": 23,
+        "pointsReq": 5000,
+        "reward": "legendChance+0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward24": {
+        "uid": "reward24",
+        "index": 24,
+        "pointsReq": 5500,
+        "reward": "gems:200",
+        "rewardVip": "gems:100",
+        "rewardTier": null
+    },
+    "reward25": {
+        "uid": "reward25",
+        "index": 25,
+        "pointsReq": 6000,
+        "reward": "bp:archivistglasses",
+        "rewardVip": null,
+        "rewardTier": "gold_b"
+    },
+    "reward26": {
+        "uid": "reward26",
+        "index": 26,
+        "pointsReq": 6500,
+        "reward": "gold:200000000",
+        "rewardVip": "gold:100000000",
+        "rewardTier": null
+    },
+    "reward27": {
+        "uid": "reward27",
+        "index": 27,
+        "pointsReq": 7000,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward28": {
+        "uid": "reward28",
+        "index": 28,
+        "pointsReq": 8000,
+        "reward": "item:antique_shard,300",
+        "rewardVip": "item:antique_shard,100",
+        "rewardTier": null
+    },
+    "reward29": {
+        "uid": "reward29",
+        "index": 29,
+        "pointsReq": 9000,
+        "reward": "legendChance+0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward30": {
+        "uid": "reward30",
+        "index": 30,
+        "pointsReq": 10000,
+        "reward": "item:token_hemma,50",
+        "rewardVip": "item:token_hemma,25",
+        "rewardTier": null
+    },
+    "reward31": {
+        "uid": "reward31",
+        "index": 31,
+        "pointsReq": 12000,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward32": {
+        "uid": "reward32",
+        "index": 32,
+        "pointsReq": 14000,
+        "reward": "gems:250",
+        "rewardVip": "gems:100",
+        "rewardTier": null
+    },
+    "reward33": {
+        "uid": "reward33",
+        "index": 33,
+        "pointsReq": 16000,
+        "reward": "legendChance+0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward34": {
+        "uid": "reward34",
+        "index": 34,
+        "pointsReq": 18000,
+        "reward": "item:bp_upgrade,250",
+        "rewardVip": "item:bp_upgrade,100",
+        "rewardTier": null
+    },
+    "reward35": {
+        "uid": "reward35",
+        "index": 35,
+        "pointsReq": 20000,
+        "reward": "bp:allknowledge",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward36": {
+        "uid": "reward36",
+        "index": 36,
+        "pointsReq": 24000,
+        "reward": "item:dragonemblem,250",
+        "rewardVip": "item:dragonemblem,150",
+        "rewardTier": null
+    },
+    "reward37": {
+        "uid": "reward37",
+        "index": 37,
+        "pointsReq": 28000,
+        "reward": "fusionSpeed-0.05",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    },
+    "reward38": {
+        "uid": "reward38",
+        "index": 38,
+        "pointsReq": 32000,
+        "reward": "item:bp_upgrade,1000",
+        "rewardVip": "item:bp_upgrade,500",
+        "rewardTier": null
+    },
+    "reward39": {
+        "uid": "reward39",
+        "index": 39,
+        "pointsReq": 37000,
+        "reward": "gems:300",
+        "rewardVip": "gems:200",
+        "rewardTier": null
+    },
+    "reward40": {
+        "uid": "reward40",
+        "index": 40,
+        "pointsReq": 44000,
+        "reward": "item:antique_shard,400",
+        "rewardVip": "item:antique_shard,200",
+        "rewardTier": null
+    },
+    "reward41": {
+        "uid": "reward41",
+        "index": 41,
+        "pointsReq": 55000,
+        "reward": "bp:collectionstaff",
+        "rewardVip": null,
+        "rewardTier": "gold"
+    }
+}

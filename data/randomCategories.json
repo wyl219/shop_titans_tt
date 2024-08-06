@@ -1,0 +1,548 @@
+{
+    "pig_component": {
+        "uid": "pig_component",
+        "feature": "pig",
+        "type": "component",
+        "quality": null,
+        "odds": "25"
+    },
+    "pig_heal": {
+        "uid": "pig_heal",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "pig_xp": {
+        "uid": "pig_xp",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "pig_lowbooster": {
+        "uid": "pig_lowbooster",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "pig_medbooster": {
+        "uid": "pig_medbooster",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_highbooster": {
+        "uid": "pig_highbooster",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_seed": {
+        "uid": "pig_seed",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_stone": {
+        "uid": "pig_stone",
+        "feature": "pig",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_moonstones": {
+        "uid": "pig_moonstones",
+        "feature": "pig",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_repairkit": {
+        "uid": "pig_repairkit",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "pig_gems": {
+        "uid": "pig_gems",
+        "feature": "pig",
+        "type": "gems",
+        "quality": null,
+        "odds": "8"
+    },
+    "pig_scrolls": {
+        "uid": "pig_scrolls",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "pig_tokens": {
+        "uid": "pig_tokens",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "pig_key": {
+        "uid": "pig_key",
+        "feature": "pig",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "piggold_heal": {
+        "uid": "piggold_heal",
+        "feature": "piggold",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "piggold_gems": {
+        "uid": "piggold_gems",
+        "feature": "piggold",
+        "type": "gems",
+        "quality": null,
+        "odds": "10"
+    },
+    "piggold_repairkit": {
+        "uid": "piggold_repairkit",
+        "feature": "piggold",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "piggold_scrolls": {
+        "uid": "piggold_scrolls",
+        "feature": "piggold",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "piggold_key": {
+        "uid": "piggold_key",
+        "feature": "piggold",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "piggold_tokens": {
+        "uid": "piggold_tokens",
+        "feature": "piggold",
+        "type": "special",
+        "quality": null,
+        "odds": "10"
+    },
+    "citygift_booster": {
+        "uid": "citygift_booster",
+        "feature": "citygift",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "citygift_repairkit": {
+        "uid": "citygift_repairkit",
+        "feature": "citygift",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "citygift_scrolls": {
+        "uid": "citygift_scrolls",
+        "feature": "citygift",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "citygift_gems": {
+        "uid": "citygift_gems",
+        "feature": "citygift",
+        "type": "gems",
+        "quality": null,
+        "odds": "3"
+    },
+    "citygift_tokens": {
+        "uid": "citygift_tokens",
+        "feature": "citygift",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "tokenstore_resource": {
+        "uid": "tokenstore_resource",
+        "feature": "tokenstore1",
+        "type": "resource",
+        "quality": null,
+        "odds": "5"
+    },
+    "tokenstore_component": {
+        "uid": "tokenstore_component",
+        "feature": "tokenstore1",
+        "type": "component",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_lowdrink": {
+        "uid": "tokenstore_lowdrink",
+        "feature": "tokenstore1",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "tokenstore_lowbooster": {
+        "uid": "tokenstore_lowbooster",
+        "feature": "tokenstore1",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "tokenstore_uncommonitem": {
+        "uid": "tokenstore_uncommonitem",
+        "feature": "tokenstore1",
+        "type": "item",
+        "quality": "uncommon",
+        "odds": "5"
+    },
+    "tokenstore_meddrink": {
+        "uid": "tokenstore_meddrink",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_medbooster": {
+        "uid": "tokenstore_medbooster",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_seed": {
+        "uid": "tokenstore_seed",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_flawlessitem": {
+        "uid": "tokenstore_flawlessitem",
+        "feature": "tokenstore2",
+        "type": "item",
+        "quality": "flawless",
+        "odds": "5"
+    },
+    "tokenstore_medgems": {
+        "uid": "tokenstore_medgems",
+        "feature": "tokenstore2",
+        "type": "gems",
+        "quality": null,
+        "odds": "7"
+    },
+    "tokenstore_stone": {
+        "uid": "tokenstore_stone",
+        "feature": "tokenstore2",
+        "type": "component",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_moonstones": {
+        "uid": "tokenstore_moonstones",
+        "feature": "tokenstore2",
+        "type": "component",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_repairkit": {
+        "uid": "tokenstore_repairkit",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_highbooster": {
+        "uid": "tokenstore_highbooster",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "5"
+    },
+    "tokenstore_medscrolls": {
+        "uid": "tokenstore_medscrolls",
+        "feature": "tokenstore2",
+        "type": "special",
+        "quality": null,
+        "odds": "10"
+    },
+    "tokenstore_highgems": {
+        "uid": "tokenstore_highgems",
+        "feature": "tokenstore3",
+        "type": "gems",
+        "quality": null,
+        "odds": "15"
+    },
+    "tokenstore_key": {
+        "uid": "tokenstore_key",
+        "feature": "tokenstore3",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "tokenstore_epicitem": {
+        "uid": "tokenstore_epicitem",
+        "feature": "tokenstore3",
+        "type": "item",
+        "quality": "epic",
+        "odds": "15"
+    },
+    "tokenstore_legendaryitem": {
+        "uid": "tokenstore_legendaryitem",
+        "feature": "tokenstore3",
+        "type": "item",
+        "quality": "legendary",
+        "odds": "3"
+    },
+    "tokenstore_championcoin": {
+        "uid": "tokenstore_championcoin",
+        "feature": "tokenstore3",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "tokenstore_highscrolls": {
+        "uid": "tokenstore_highscrolls",
+        "feature": "tokenstore3",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "tokenstore_sigils": {
+        "uid": "tokenstore_sigils",
+        "feature": "tokenstore3",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_component": {
+        "uid": "guildbox_component",
+        "feature": "guildbox",
+        "type": "component",
+        "quality": null,
+        "odds": "25"
+    },
+    "guildbox_heal": {
+        "uid": "guildbox_heal",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "guildbox_xp": {
+        "uid": "guildbox_xp",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "guildbox_lowbooster": {
+        "uid": "guildbox_lowbooster",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "guildbox_medbooster": {
+        "uid": "guildbox_medbooster",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_seed": {
+        "uid": "guildbox_seed",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_stone": {
+        "uid": "guildbox_stone",
+        "feature": "guildbox",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_moonstones": {
+        "uid": "guildbox_moonstones",
+        "feature": "guildbox",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_repairkit": {
+        "uid": "guildbox_repairkit",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildbox_gems": {
+        "uid": "guildbox_gems",
+        "feature": "guildbox",
+        "type": "gems",
+        "quality": null,
+        "odds": "8"
+    },
+    "guildbox_scrolls": {
+        "uid": "guildbox_scrolls",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "guildbox_tokens": {
+        "uid": "guildbox_tokens",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "guildbox_key": {
+        "uid": "guildbox_key",
+        "feature": "guildbox",
+        "type": "special",
+        "quality": null,
+        "odds": "8"
+    },
+    "guildbox_furniture": {
+        "uid": "guildbox_furniture",
+        "feature": "guildbox",
+        "type": "furniture",
+        "quality": null,
+        "odds": "8"
+    },
+    "guildboxgold_heal": {
+        "uid": "guildboxgold_heal",
+        "feature": "guildboxgold",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildboxgold_gems": {
+        "uid": "guildboxgold_gems",
+        "feature": "guildboxgold",
+        "type": "gems",
+        "quality": null,
+        "odds": "10"
+    },
+    "guildboxgold_repairkit": {
+        "uid": "guildboxgold_repairkit",
+        "feature": "guildboxgold",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "guildboxgold_scrolls": {
+        "uid": "guildboxgold_scrolls",
+        "feature": "guildboxgold",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "guildboxgold_key": {
+        "uid": "guildboxgold_key",
+        "feature": "guildboxgold",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "guildboxgold_tokens": {
+        "uid": "guildboxgold_tokens",
+        "feature": "guildboxgold",
+        "type": "special",
+        "quality": null,
+        "odds": "10"
+    },
+    "antiqueshop_booster": {
+        "uid": "antiqueshop_booster",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "antiqueshop_repairkit": {
+        "uid": "antiqueshop_repairkit",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "antiqueshop_scrolls": {
+        "uid": "antiqueshop_scrolls",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "antiqueshop_tokens": {
+        "uid": "antiqueshop_tokens",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "25"
+    },
+    "antiqueshop_drink": {
+        "uid": "antiqueshop_drink",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "antiqueshop_seeds": {
+        "uid": "antiqueshop_seeds",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "15"
+    },
+    "antiqueshop_gems": {
+        "uid": "antiqueshop_gems",
+        "feature": "antiqueshop",
+        "type": "gems",
+        "quality": null,
+        "odds": "15"
+    },
+    "antiqueshop_stone": {
+        "uid": "antiqueshop_stone",
+        "feature": "antiqueshop",
+        "type": "component",
+        "quality": null,
+        "odds": "25"
+    },
+    "antiqueshop_key": {
+        "uid": "antiqueshop_key",
+        "feature": "antiqueshop",
+        "type": "special",
+        "quality": null,
+        "odds": "20"
+    },
+    "antiqueshop_moonstones": {
+        "uid": "antiqueshop_moonstones",
+        "feature": "antiqueshop",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    },
+    "antiqueshop_sigils": {
+        "uid": "antiqueshop_sigils",
+        "feature": "antiqueshop",
+        "type": "component",
+        "quality": null,
+        "odds": "20"
+    }
+}

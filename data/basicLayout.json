@@ -1,0 +1,1860 @@
+{
+    "shopName": "basicLayout",
+    "nodes": [
+        {
+            "type": "EnvironmentBlocked",
+            "number": 42
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 4
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 89
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 88
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 90
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 91
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 91
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 91
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 91
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 15
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 73
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 15
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 73
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 72
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 28
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 95
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 95
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 27
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 38
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 26
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 27
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 38
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 26
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 28
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 38
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 55
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 38
+        },
+        {
+            "type": "SpawnVisitor",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 27
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 22
+        },
+        {
+            "type": "Entrance",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 34
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 5
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 29
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 6
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 12
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 7
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "SpawnBackground",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop3",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop1",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop2",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 84
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 13
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 9
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop6",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop4",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop5",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 156
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 41
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 59
+        },
+        {
+            "type": "Shop9",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop7",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Shop8",
+            "number": 12
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 2843
+        }
+    ],
+    "length": 48,
+    "width": 48,
+    "nodesPerUnit": 2
+}

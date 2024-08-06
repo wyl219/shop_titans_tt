@@ -1,0 +1,17 @@
+{
+    "normal": {
+        "uid": "normal",
+        "index": 0,
+        "xp": 25
+    },
+    "superior": {
+        "uid": "superior",
+        "index": 1,
+        "xp": 100
+    },
+    "premium": {
+        "uid": "premium",
+        "index": 2,
+        "xp": 150
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "uncommon": {
+        "uid": "uncommon",
+        "reqQuality": "common",
+        "qty": 4,
+        "successOdds": "1",
+        "qualityMult": 1
+    },
+    "flawless": {
+        "uid": "flawless",
+        "reqQuality": "uncommon",
+        "qty": 5,
+        "successOdds": "1",
+        "qualityMult": 1.5
+    },
+    "epic": {
+        "uid": "epic",
+        "reqQuality": "flawless",
+        "qty": 5,
+        "successOdds": "1",
+        "qualityMult": 2
+    },
+    "legendary": {
+        "uid": "legendary",
+        "reqQuality": "epic",
+        "qty": 5,
+        "successOdds": "0.5",
+        "qualityMult": 3
+    }
+}

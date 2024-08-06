@@ -1,0 +1,86 @@
+{
+    "avatar01": {
+        "uid": "avatar01",
+        "family": "avatar",
+        "requirement": 1,
+        "unlock": "custom_hat_king",
+        "effect": "0"
+    },
+    "repairgold01": {
+        "uid": "repairgold01",
+        "family": "repairgold",
+        "requirement": 2,
+        "unlock": null,
+        "effect": "0.9"
+    },
+    "avatar02": {
+        "uid": "avatar02",
+        "family": "avatar",
+        "requirement": 3,
+        "unlock": "custom_boots_king",
+        "effect": "0"
+    },
+    "repairgold02": {
+        "uid": "repairgold02",
+        "family": "repairgold",
+        "requirement": 4,
+        "unlock": null,
+        "effect": "0.8"
+    },
+    "avatar03": {
+        "uid": "avatar03",
+        "family": "avatar",
+        "requirement": 5,
+        "unlock": "custom_top_king",
+        "effect": "0"
+    },
+    "repairgold03": {
+        "uid": "repairgold03",
+        "family": "repairgold",
+        "requirement": 6,
+        "unlock": null,
+        "effect": "0.7"
+    },
+    "decoration02": {
+        "uid": "decoration02",
+        "family": "decoration",
+        "requirement": 7,
+        "unlock": "kingbust",
+        "effect": "0"
+    },
+    "avatar04": {
+        "uid": "avatar04",
+        "family": "avatar",
+        "requirement": 8,
+        "unlock": "custom_gloves_king",
+        "effect": "0"
+    },
+    "repairgold04": {
+        "uid": "repairgold04",
+        "family": "repairgold",
+        "requirement": 9,
+        "unlock": null,
+        "effect": "0.6"
+    },
+    "repairgold05": {
+        "uid": "repairgold05",
+        "family": "repairgold",
+        "requirement": 10,
+        "unlock": null,
+        "effect": "0.5"
+    },
+    "decoration01": {
+        "uid": "decoration01",
+        "family": "decoration",
+        "requirement": 11,
+        "unlock": "carriage",
+        "effect": "0"
+    },
+    "avatar05": {
+        "uid": "avatar05",
+        "family": "avatar",
+        "requirement": 12,
+        "unlock": "custom_handheld_king",
+        "effect": "0"
+    }
+}

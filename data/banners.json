@@ -1,0 +1,32 @@
+{
+    "swordbanner01": {
+        "uid": "swordbanner01",
+        "itemTypes": "ws",
+        "lvl1Craft": "0.95",
+        "lvl2Craft": "0.85",
+        "lvl3Craft": "0.75",
+        "lvl2XpMult": "1",
+        "lvl3XpMult": "1.5",
+        "frenzyXpMult": "2"
+    },
+    "bowbanner01": {
+        "uid": "bowbanner01",
+        "itemTypes": "wb",
+        "lvl1Craft": "0.95",
+        "lvl2Craft": "0.85",
+        "lvl3Craft": "0.75",
+        "lvl2XpMult": "1",
+        "lvl3XpMult": "1.5",
+        "frenzyXpMult": "2"
+    },
+    "gunbanner01": {
+        "uid": "gunbanner01",
+        "itemTypes": "wg",
+        "lvl1Craft": "0.95",
+        "lvl2Craft": "0.85",
+        "lvl3Craft": "0.75",
+        "lvl2XpMult": "1",
+        "lvl3XpMult": "1.5",
+        "frenzyXpMult": "2"
+    }
+}

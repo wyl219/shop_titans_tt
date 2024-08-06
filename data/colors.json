@@ -1,0 +1,510 @@
+{
+    "purple": {
+        "uid": "purple",
+        "hexColor": "#B559BF"
+    },
+    "grey": {
+        "uid": "grey",
+        "hexColor": "#ECECEC"
+    },
+    "oxleygreen": {
+        "uid": "oxleygreen",
+        "hexColor": "#739F73"
+    },
+    "brown": {
+        "uid": "brown",
+        "hexColor": "#854700"
+    },
+    "darkbrown": {
+        "uid": "darkbrown",
+        "hexColor": "#57271B"
+    },
+    "yellow": {
+        "uid": "yellow",
+        "hexColor": "#FFEF00"
+    },
+    "poloblue": {
+        "uid": "poloblue",
+        "hexColor": "#80A0C6"
+    },
+    "red": {
+        "uid": "red",
+        "hexColor": "#B8250C"
+    },
+    "orange": {
+        "uid": "orange",
+        "hexColor": "#FF8C00"
+    },
+    "blackgrey": {
+        "uid": "blackgrey",
+        "hexColor": "#393C40"
+    },
+    "shakespeare": {
+        "uid": "shakespeare",
+        "hexColor": "#6E98B6"
+    },
+    "gold": {
+        "uid": "gold",
+        "hexColor": "#FFC04F"
+    },
+    "blue": {
+        "uid": "blue",
+        "hexColor": "#4EA7E7"
+    },
+    "maroon": {
+        "uid": "maroon",
+        "hexColor": "#7A192B"
+    },
+    "steelblue": {
+        "uid": "steelblue",
+        "hexColor": "#B6C2E5"
+    },
+    "white": {
+        "uid": "white",
+        "hexColor": "#FFFFFF"
+    },
+    "caucasian1": {
+        "uid": "caucasian1",
+        "hexColor": "#3E0C0C"
+    },
+    "caucasian1_2": {
+        "uid": "caucasian1_2",
+        "hexColor": "#9A421B"
+    },
+    "caucasian1_3": {
+        "uid": "caucasian1_3",
+        "hexColor": "#FF9F87"
+    },
+    "caucasian1_4": {
+        "uid": "caucasian1_4",
+        "hexColor": "#FFE2DB"
+    },
+    "caucasian2": {
+        "uid": "caucasian2",
+        "hexColor": "#310E1D"
+    },
+    "caucasian2_2": {
+        "uid": "caucasian2_2",
+        "hexColor": "#AE341F"
+    },
+    "caucasian2_3": {
+        "uid": "caucasian2_3",
+        "hexColor": "#D68161"
+    },
+    "caucasian2_4": {
+        "uid": "caucasian2_4",
+        "hexColor": "#F2E2E2"
+    },
+    "caucasian3": {
+        "uid": "caucasian3",
+        "hexColor": "#310518"
+    },
+    "caucasian3_2": {
+        "uid": "caucasian3_2",
+        "hexColor": "#8B2E18"
+    },
+    "caucasian3_3": {
+        "uid": "caucasian3_3",
+        "hexColor": "#DA7876"
+    },
+    "caucasian3_4": {
+        "uid": "caucasian3_4",
+        "hexColor": "#F8D7C3"
+    },
+    "dark1": {
+        "uid": "dark1",
+        "hexColor": "#E7D8CA"
+    },
+    "dark2": {
+        "uid": "dark2",
+        "hexColor": "#B28C69"
+    },
+    "dark3": {
+        "uid": "dark3",
+        "hexColor": "#865134"
+    },
+    "dark4": {
+        "uid": "dark4",
+        "hexColor": "#604230"
+    },
+    "asian1": {
+        "uid": "asian1",
+        "hexColor": "#908566"
+    },
+    "asian2": {
+        "uid": "asian2",
+        "hexColor": "#625634"
+    },
+    "asian3": {
+        "uid": "asian3",
+        "hexColor": "#F9C875"
+    },
+    "elfskin": {
+        "uid": "elfskin",
+        "hexColor": "#6965D8"
+    },
+    "drow": {
+        "uid": "drow",
+        "hexColor": "#9877A9"
+    },
+    "orcskin": {
+        "uid": "orcskin",
+        "hexColor": "#20FF6B"
+    },
+    "undead": {
+        "uid": "undead",
+        "hexColor": "#89853A"
+    },
+    "redskin": {
+        "uid": "redskin",
+        "hexColor": "#F22B2B"
+    },
+    "nightcrawler": {
+        "uid": "nightcrawler",
+        "hexColor": "#5B7EB8"
+    },
+    "iridescent": {
+        "uid": "iridescent",
+        "hexColor": "#BBFFFF"
+    },
+    "pearl": {
+        "uid": "pearl",
+        "hexColor": "#B1D6EF"
+    },
+    "simpson": {
+        "uid": "simpson",
+        "hexColor": "#FFFF64"
+    },
+    "genie": {
+        "uid": "genie",
+        "hexColor": "#9083F3"
+    },
+    "pinkrose": {
+        "uid": "pinkrose",
+        "hexColor": "#EE87B8"
+    },
+    "aquatic": {
+        "uid": "aquatic",
+        "hexColor": "#83EAD9"
+    },
+    "obsidian": {
+        "uid": "obsidian",
+        "hexColor": "#000000"
+    },
+    "dryad": {
+        "uid": "dryad",
+        "hexColor": "#5BE567"
+    },
+    "caucasian1rim": {
+        "uid": "caucasian1rim",
+        "hexColor": "#E5D2C5"
+    },
+    "caucasian2rim": {
+        "uid": "caucasian2rim",
+        "hexColor": "#6F472E"
+    },
+    "caucasian3rim": {
+        "uid": "caucasian3rim",
+        "hexColor": "#89020B"
+    },
+    "caucasian4rim": {
+        "uid": "caucasian4rim",
+        "hexColor": "#BC8B03"
+    },
+    "dark1rim": {
+        "uid": "dark1rim",
+        "hexColor": "#DBADA6"
+    },
+    "dark2rim": {
+        "uid": "dark2rim",
+        "hexColor": "#EC8246"
+    },
+    "dark3rim": {
+        "uid": "dark3rim",
+        "hexColor": "#6F472E"
+    },
+    "dark4rim": {
+        "uid": "dark4rim",
+        "hexColor": "#00434F"
+    },
+    "asian1rim": {
+        "uid": "asian1rim",
+        "hexColor": "#F5E495"
+    },
+    "asian2rim": {
+        "uid": "asian2rim",
+        "hexColor": "#6F472E"
+    },
+    "asian3rim": {
+        "uid": "asian3rim",
+        "hexColor": "#B73716"
+    },
+    "asian4rim": {
+        "uid": "asian4rim",
+        "hexColor": "#090A57"
+    },
+    "extra1rim": {
+        "uid": "extra1rim",
+        "hexColor": "#CFA949"
+    },
+    "extra2rim": {
+        "uid": "extra2rim",
+        "hexColor": "#718293"
+    },
+    "extra3rim": {
+        "uid": "extra3rim",
+        "hexColor": "#6f472E"
+    },
+    "extra4rim": {
+        "uid": "extra4rim",
+        "hexColor": "#08133A"
+    },
+    "caucasian1swathe": {
+        "uid": "caucasian1swathe",
+        "hexColor": "#FBDEBE"
+    },
+    "caucasian2swathe": {
+        "uid": "caucasian2swathe",
+        "hexColor": "#DEA77F"
+    },
+    "caucasian3swathe": {
+        "uid": "caucasian3swathe",
+        "hexColor": "#DD9672"
+    },
+    "caucasian4swathe": {
+        "uid": "caucasian4swathe",
+        "hexColor": "#F7C58E"
+    },
+    "dark1swathe": {
+        "uid": "dark1swathe",
+        "hexColor": "#672E1E"
+    },
+    "dark2swathe": {
+        "uid": "dark2swathe",
+        "hexColor": "#672509"
+    },
+    "dark3swathe": {
+        "uid": "dark3swathe",
+        "hexColor": "#501A08"
+    },
+    "dark4swathe": {
+        "uid": "dark4swathe",
+        "hexColor": "#3E1C14"
+    },
+    "asian1swathe": {
+        "uid": "asian1swathe",
+        "hexColor": "#DB9D61"
+    },
+    "asian2swathe": {
+        "uid": "asian2swathe",
+        "hexColor": "#CC8750"
+    },
+    "asian3swathe": {
+        "uid": "asian3swathe",
+        "hexColor": "#CB7B46"
+    },
+    "asian4swathe": {
+        "uid": "asian4swathe",
+        "hexColor": "#AC6B47"
+    },
+    "extra1swathe": {
+        "uid": "extra1swathe",
+        "hexColor": "#97602C"
+    },
+    "extra2swathe": {
+        "uid": "extra2swathe",
+        "hexColor": "#8d5937"
+    },
+    "extra3swathe": {
+        "uid": "extra3swathe",
+        "hexColor": "#804621"
+    },
+    "extra4swathe": {
+        "uid": "extra4swathe",
+        "hexColor": "#774227"
+    },
+    "elfskinswathe": {
+        "uid": "elfskinswathe",
+        "hexColor": "#DF86C7"
+    },
+    "drowskinswathe": {
+        "uid": "drowskinswathe",
+        "hexColor": "#B78FBB"
+    },
+    "orcskinswathe": {
+        "uid": "orcskinswathe",
+        "hexColor": "#43AA3F"
+    },
+    "undeadswathe": {
+        "uid": "undeadswathe",
+        "hexColor": "#89853A"
+    },
+    "redskinswathe": {
+        "uid": "redskinswathe",
+        "hexColor": "#F22B2B"
+    },
+    "nightcrawlerswathe": {
+        "uid": "nightcrawlerswathe",
+        "hexColor": "#778CBB"
+    },
+    "iridescentswathe": {
+        "uid": "iridescentswathe",
+        "hexColor": "#BBFFFF"
+    },
+    "pearlswathe": {
+        "uid": "pearlswathe",
+        "hexColor": "#B1D6EF"
+    },
+    "simpsonswathe": {
+        "uid": "simpsonswathe",
+        "hexColor": "#FFFF64"
+    },
+    "geniewathe": {
+        "uid": "geniewathe",
+        "hexColor": "#9083F3"
+    },
+    "pinkroseswathe": {
+        "uid": "pinkroseswathe",
+        "hexColor": "#EE87B8"
+    },
+    "aquaticswathe": {
+        "uid": "aquaticswathe",
+        "hexColor": "#83EAD9"
+    },
+    "obsidianswathe": {
+        "uid": "obsidianswathe",
+        "hexColor": "#000000"
+    },
+    "dryadswathe": {
+        "uid": "dryadswathe",
+        "hexColor": "#5BE567"
+    },
+    "darkgrey": {
+        "uid": "darkgrey",
+        "hexColor": "#8F95A3"
+    },
+    "tan": {
+        "uid": "tan",
+        "hexColor": "#DBCEBD"
+    },
+    "beige": {
+        "uid": "beige",
+        "hexColor": "#C3BC9E"
+    },
+    "lime": {
+        "uid": "lime",
+        "hexColor": "#C2F86D"
+    },
+    "darkgreen": {
+        "uid": "darkgreen",
+        "hexColor": "#1A5126"
+    },
+    "turquoise": {
+        "uid": "turquoise",
+        "hexColor": "#3FE0D0"
+    },
+    "darkblue": {
+        "uid": "darkblue",
+        "hexColor": "#154798"
+    },
+    "salmon": {
+        "uid": "salmon",
+        "hexColor": "#FB876D"
+    },
+    "pink": {
+        "uid": "pink",
+        "hexColor": "#FFABDA"
+    },
+    "springgreen": {
+        "uid": "springgreen",
+        "hexColor": "#00FFC0"
+    },
+    "mariner": {
+        "uid": "mariner",
+        "hexColor": "#4455A3"
+    },
+    "violet": {
+        "uid": "violet",
+        "hexColor": "#593392"
+    },
+    "bastille": {
+        "uid": "bastille",
+        "hexColor": "#323235"
+    },
+    "lightgreen": {
+        "uid": "lightgreen",
+        "hexColor": "#78FF9A"
+    },
+    "aquamarine": {
+        "uid": "aquamarine",
+        "hexColor": "#4E78A0"
+    },
+    "teal": {
+        "uid": "teal",
+        "hexColor": "#008081"
+    },
+    "malibu": {
+        "uid": "malibu",
+        "hexColor": "#67A1FF"
+    },
+    "malachite": {
+        "uid": "malachite",
+        "hexColor": "#16D22F"
+    },
+    "rose": {
+        "uid": "rose",
+        "hexColor": "#FF0084"
+    },
+    "hitpink": {
+        "uid": "hitpink",
+        "hexColor": "#FFB187"
+    },
+    "blazeorange": {
+        "uid": "blazeorange",
+        "hexColor": "#FF6400"
+    },
+    "huntergreen": {
+        "uid": "huntergreen",
+        "hexColor": "#5C8671"
+    },
+    "darkred": {
+        "uid": "darkred",
+        "hexColor": "#3a0909"
+    },
+    "deepred": {
+        "uid": "deepred",
+        "hexColor": "#70190A"
+    },
+    "blonde": {
+        "uid": "blonde",
+        "hexColor": "#FFD10D"
+    },
+    "christmasgreen": {
+        "uid": "christmasgreen",
+        "hexColor": "#0B7E1B"
+    },
+    "santabeard": {
+        "uid": "santabeard",
+        "hexColor": "#e7e0e0"
+    },
+    "woodybrown": {
+        "uid": "woodybrown",
+        "hexColor": "#5c4242"
+    },
+    "deepgold": {
+        "uid": "deepgold",
+        "hexColor": "#FDA611"
+    },
+    "hotpink": {
+        "uid": "hotpink",
+        "hexColor": "#EB2A90"
+    },
+    "blind": {
+        "uid": "blind",
+        "hexColor": "#C2DaE6"
+    },
+    "powderpink": {
+        "uid": "powderpink",
+        "hexColor": "#fec9e9"
+    }
+}

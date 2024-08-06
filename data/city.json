@@ -1,0 +1,5116 @@
+{
+    "shopName": "city",
+    "nodes": [
+        {
+            "type": "Blocked",
+            "number": 3122
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 116
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Blocked",
+            "number": 114
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Blocked",
+            "number": 113
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Blocked",
+            "number": 42
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Blocked",
+            "number": 56
+        },
+        {
+            "type": "Grass",
+            "number": 85
+        },
+        {
+            "type": "Blocked",
+            "number": 56
+        },
+        {
+            "type": "Grass",
+            "number": 85
+        },
+        {
+            "type": "Blocked",
+            "number": 56
+        },
+        {
+            "type": "Grass",
+            "number": 85
+        },
+        {
+            "type": "Blocked",
+            "number": 61
+        },
+        {
+            "type": "Grass",
+            "number": 80
+        },
+        {
+            "type": "Blocked",
+            "number": 62
+        },
+        {
+            "type": "Grass",
+            "number": 79
+        },
+        {
+            "type": "Blocked",
+            "number": 62
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 62
+        },
+        {
+            "type": "Blocked",
+            "number": 62
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 63
+        },
+        {
+            "type": "Blocked",
+            "number": 60
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 60
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 60
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 60
+        },
+        {
+            "type": "Blocked",
+            "number": 60
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 60
+        },
+        {
+            "type": "Blocked",
+            "number": 60
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "EnvironmentBlocked",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 64
+        },
+        {
+            "type": "Blocked",
+            "number": 56
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 81
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 81
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 79
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 79
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 78
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 38
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 14
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Blocked",
+            "number": 32
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 14
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Blocked",
+            "number": 30
+        },
+        {
+            "type": "Grass",
+            "number": 44
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 12
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 49
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 50
+        },
+        {
+            "type": "Path",
+            "number": 14
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 52
+        },
+        {
+            "type": "Path",
+            "number": 12
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 53
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 56
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 14
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 14
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 13
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 19
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 22
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 29
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 41
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 40
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 13
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 15
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 13
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Blocked",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 59
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Entrance",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Blocked",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Blocked",
+            "number": 13
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 14
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 15
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 15
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 37
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 24
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 20
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 17
+        },
+        {
+            "type": "Grass",
+            "number": 18
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 41
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 42
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 43
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 12
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 44
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 46
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 8
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 44
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 3
+        },
+        {
+            "type": "Path",
+            "number": 21
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 44
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 7
+        },
+        {
+            "type": "Path",
+            "number": 15
+        },
+        {
+            "type": "Grass",
+            "number": 55
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 17
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 5
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 18
+        },
+        {
+            "type": "Grass",
+            "number": 46
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Path",
+            "number": 22
+        },
+        {
+            "type": "Grass",
+            "number": 42
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 5
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 26
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Path",
+            "number": 29
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Path",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 19
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 10
+        },
+        {
+            "type": "Grass",
+            "number": 26
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 20
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 33
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 16
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 32
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 36
+        },
+        {
+            "type": "Path",
+            "number": 10
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 15
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 21
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 4
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 13
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 28
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 6
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 35
+        },
+        {
+            "type": "Path",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 11
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 1
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 22
+        },
+        {
+            "type": "Grass",
+            "number": 38
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 22
+        },
+        {
+            "type": "Path",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 2
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 39
+        },
+        {
+            "type": "Path",
+            "number": 8
+        },
+        {
+            "type": "Grass",
+            "number": 9
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 2
+        },
+        {
+            "type": "Grass",
+            "number": 1
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 23
+        },
+        {
+            "type": "Path",
+            "number": 11
+        },
+        {
+            "type": "Grass",
+            "number": 45
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 10
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 31
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 24
+        },
+        {
+            "type": "Path",
+            "number": 7
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 25
+        },
+        {
+            "type": "Path",
+            "number": 6
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 27
+        },
+        {
+            "type": "Path",
+            "number": 4
+        },
+        {
+            "type": "Grass",
+            "number": 30
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Blocked",
+            "number": 16
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 60
+        },
+        {
+            "type": "Blocked",
+            "number": 17
+        },
+        {
+            "type": "Grass",
+            "number": 61
+        },
+        {
+            "type": "Path",
+            "number": 3
+        },
+        {
+            "type": "Grass",
+            "number": 37
+        },
+        {
+            "type": "Blocked",
+            "number": 40
+        },
+        {
+            "type": "Grass",
+            "number": 58
+        },
+        {
+            "type": "Blocked",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Blocked",
+            "number": 40
+        },
+        {
+            "type": "Grass",
+            "number": 58
+        },
+        {
+            "type": "Blocked",
+            "number": 9
+        },
+        {
+            "type": "Grass",
+            "number": 34
+        },
+        {
+            "type": "Blocked",
+            "number": 5108
+        }
+    ],
+    "length": 140,
+    "width": 200,
+    "nodesPerUnit": 1
+}

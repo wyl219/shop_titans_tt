@@ -1,0 +1,162 @@
+{
+    "blacksmith": {
+        "uid": "blacksmith",
+        "index": 1,
+        "level": 1,
+        "intro": true,
+        "phasingMasks": "0x0",
+        "color1": "#270802",
+        "color2": "#731706",
+        "color3": "#F85C3F"
+    },
+    "carpenter": {
+        "uid": "carpenter",
+        "index": 2,
+        "level": 0,
+        "intro": true,
+        "phasingMasks": "0x0",
+        "color1": "#524719",
+        "color2": "#867428",
+        "color3": "#FFDF4C"
+    },
+    "tailor": {
+        "uid": "tailor",
+        "index": 3,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#361212",
+        "color2": "#832B2A",
+        "color3": "#FF6E6D"
+    },
+    "herbalist": {
+        "uid": "herbalist",
+        "index": 4,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#332000",
+        "color2": "#804E00",
+        "color3": "#FFAF34"
+    },
+    "jeweler": {
+        "uid": "jeweler",
+        "index": 5,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#27081B",
+        "color2": "#73184F",
+        "color3": "#F362B9"
+    },
+    "wizard": {
+        "uid": "wizard",
+        "index": 6,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#091215",
+        "color2": "#1E3D48",
+        "color3": "#5CBCDD"
+    },
+    "priest": {
+        "uid": "priest",
+        "index": 7,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#090F15",
+        "color2": "#1F3448",
+        "color3": "#77BEFF"
+    },
+    "master": {
+        "uid": "master",
+        "index": 8,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#0E101D",
+        "color2": "#323A69",
+        "color3": "#5765B6"
+    },
+    "engineer": {
+        "uid": "engineer",
+        "index": 9,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#131A27",
+        "color2": "#394C73",
+        "color3": "#93B6FF"
+    },
+    "elven": {
+        "uid": "elven",
+        "index": 10,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#17070D",
+        "color2": "#641C36",
+        "color3": "#FF5491"
+    },
+    "academy": {
+        "uid": "academy",
+        "index": 11,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#010302",
+        "color2": "#1D5034",
+        "color3": "#4FD58C"
+    },
+    "sundragon": {
+        "uid": "sundragon",
+        "index": 12,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#08150C",
+        "color2": "#216035",
+        "color3": "#3CAE60"
+    },
+    "moondragon": {
+        "uid": "moondragon",
+        "index": 13,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#3F1B43",
+        "color2": "#87398F",
+        "color3": "#CF56DB"
+    },
+    "baker": {
+        "uid": "baker",
+        "index": 14,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#0A1D18",
+        "color2": "#256959",
+        "color3": "#59FFD8"
+    },
+    "cook": {
+        "uid": "cook",
+        "index": 15,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#220B06",
+        "color2": "#6E2212",
+        "color3": "#FF795D"
+    },
+    "bard": {
+        "uid": "bard",
+        "index": 16,
+        "level": 0,
+        "intro": false,
+        "phasingMasks": "0x0",
+        "color1": "#142533",
+        "color2": "#325C80",
+        "color3": "#81C6FF"
+    }
+}

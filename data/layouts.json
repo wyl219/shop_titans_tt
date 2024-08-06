@@ -1,0 +1,82 @@
+{
+    "basicLayout": {
+        "uid": "basicLayout",
+        "level": 1,
+        "flevel": 1,
+        "gold": 0,
+        "gems": 0,
+        "scene": "basicLayout"
+    },
+    "wood": {
+        "uid": "wood",
+        "level": 1,
+        "flevel": 1,
+        "gold": 0,
+        "gems": 0,
+        "scene": "wood"
+    },
+    "nicewood": {
+        "uid": "nicewood",
+        "level": 5,
+        "flevel": 2,
+        "gold": 25000,
+        "gems": 100,
+        "scene": "nicewood"
+    },
+    "roughstone": {
+        "uid": "roughstone",
+        "level": 10,
+        "flevel": 3,
+        "gold": 100000,
+        "gems": 1000,
+        "scene": "roughstone"
+    },
+    "squarestone": {
+        "uid": "squarestone",
+        "level": 15,
+        "flevel": 6,
+        "gold": 250000,
+        "gems": 5000,
+        "scene": "squarestone"
+    },
+    "brick": {
+        "uid": "brick",
+        "level": 20,
+        "flevel": 7,
+        "gold": 500000,
+        "gems": 7500,
+        "scene": "brick"
+    },
+    "dualstone": {
+        "uid": "dualstone",
+        "level": 25,
+        "flevel": 8,
+        "gold": 1000000,
+        "gems": 10000,
+        "scene": "dualstone"
+    },
+    "finebrick": {
+        "uid": "finebrick",
+        "level": 25,
+        "flevel": 10,
+        "gold": 25000000,
+        "gems": 15000,
+        "scene": "finebrick"
+    },
+    "dualbrick": {
+        "uid": "dualbrick",
+        "level": 25,
+        "flevel": 11,
+        "gold": 50000000,
+        "gems": 20000,
+        "scene": "dualbrick"
+    },
+    "multibrick": {
+        "uid": "multibrick",
+        "level": 30,
+        "flevel": 12,
+        "gold": 100000000,
+        "gems": 25000,
+        "scene": "multibrick"
+    }
+}

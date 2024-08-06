@@ -1,0 +1,202 @@
+{
+    "maze": {
+        "uid": "maze",
+        "numReq": 1,
+        "counter1": "t_tracking",
+        "counter2": "t_cartography",
+        "counter3": "t_leadership",
+        "modifier": "obs_time1"
+    },
+    "traps": {
+        "uid": "traps",
+        "numReq": 1,
+        "counter1": "t_sensedanger",
+        "counter2": "t_detecttraps",
+        "counter3": "t_featherstep",
+        "modifier": "obs_evasion1_all"
+    },
+    "hobgoblins": {
+        "uid": "hobgoblins",
+        "numReq": 1,
+        "counter1": "t_stealth",
+        "counter2": "t_batteringram",
+        "counter3": "t_tactics",
+        "modifier": "obs_atk1_all"
+    },
+    "darkness": {
+        "uid": "darkness",
+        "numReq": 1,
+        "counter1": "t_torchbearer",
+        "counter2": "t_magiclights",
+        "counter3": "t_gloriousaura",
+        "modifier": "obs_xp1_all"
+    },
+    "giantbats": {
+        "uid": "giantbats",
+        "numReq": 1,
+        "counter1": "t_marksman",
+        "counter2": "t_animalspeech",
+        "counter3": "t_stealth",
+        "modifier": "obs_break1_all"
+    },
+    "frozenloot": {
+        "uid": "frozenloot",
+        "numReq": 1,
+        "counter1": "t_lucky",
+        "counter2": "t_findsecrets",
+        "counter3": "t_repairs",
+        "modifier": "obs_loot1"
+    },
+    "acidpits": {
+        "uid": "acidpits",
+        "numReq": 1,
+        "counter1": "t_repairs",
+        "counter2": "t_sensedanger",
+        "counter3": "t_levitation",
+        "modifier": "obs_atk1_all"
+    },
+    "poison": {
+        "uid": "poison",
+        "numReq": 1,
+        "counter1": "t_herbalist",
+        "counter2": "t_bubble",
+        "counter3": "t_forage",
+        "modifier": "obs_def1_all"
+    },
+    "mist": {
+        "uid": "mist",
+        "numReq": 1,
+        "counter1": "t_cartography",
+        "counter2": "t_magiclights",
+        "counter3": "t_intuitive",
+        "modifier": "obs_loot1"
+    },
+    "sandworms": {
+        "uid": "sandworms",
+        "numReq": 1,
+        "counter1": "t_sensedanger",
+        "counter2": "t_animalspeech",
+        "counter3": "t_featherstep",
+        "modifier": "obs_def1_all"
+    },
+    "mirages": {
+        "uid": "mirages",
+        "numReq": 1,
+        "counter1": "t_cartography",
+        "counter2": "t_lucky",
+        "counter3": "t_leadership",
+        "modifier": "obs_time1"
+    },
+    "barren": {
+        "uid": "barren",
+        "numReq": 1,
+        "counter1": "t_forage",
+        "counter2": "t_conjurer",
+        "counter3": "t_bubble",
+        "modifier": "obs_revive1"
+    },
+    "wildmagic": {
+        "uid": "wildmagic",
+        "numReq": 2,
+        "counter1": "t_sensedanger",
+        "counter2": "t_lucky",
+        "counter3": "t_dispelmagic",
+        "modifier": null
+    },
+    "sentries": {
+        "uid": "sentries",
+        "numReq": 2,
+        "counter1": "t_marksman",
+        "counter2": "t_invisibility",
+        "counter3": "t_stealth",
+        "modifier": null
+    },
+    "fortifications": {
+        "uid": "fortifications",
+        "numReq": 2,
+        "counter1": "t_findsecrets",
+        "counter2": "t_batteringram",
+        "counter3": "t_levitation",
+        "modifier": null
+    },
+    "corruption": {
+        "uid": "corruption",
+        "numReq": 2,
+        "counter1": "t_repairs",
+        "counter2": "t_herbalist",
+        "counter3": "t_gloriousaura",
+        "modifier": null
+    },
+    "undead": {
+        "uid": "undead",
+        "numReq": 2,
+        "counter1": "t_batteringram",
+        "counter2": null,
+        "counter3": "t_turnundead",
+        "modifier": null
+    },
+    "curses": {
+        "uid": "curses",
+        "numReq": 2,
+        "counter1": "t_detecttraps",
+        "counter2": "t_evilaura",
+        "counter3": "t_dispelmagic",
+        "modifier": null
+    },
+    "shiftinghalls": {
+        "uid": "shiftinghalls",
+        "numReq": 2,
+        "counter1": "t_tracking",
+        "counter2": "t_findsecrets",
+        "counter3": "t_sensedanger",
+        "modifier": null
+    },
+    "mummies": {
+        "uid": "mummies",
+        "numReq": 2,
+        "counter1": "t_torchbearer",
+        "counter2": "t_gloriousaura",
+        "counter3": "t_turnundead",
+        "modifier": null
+    },
+    "dragons": {
+        "uid": "dragons",
+        "numReq": 3,
+        "counter1": null,
+        "counter2": null,
+        "counter3": "t_invisibility",
+        "modifier": null
+    },
+    "geometry": {
+        "uid": "geometry",
+        "numReq": 3,
+        "counter1": null,
+        "counter2": null,
+        "counter3": null,
+        "modifier": null
+    },
+    "exhaustion": {
+        "uid": "exhaustion",
+        "numReq": 3,
+        "counter1": null,
+        "counter2": null,
+        "counter3": null,
+        "modifier": null
+    },
+    "devourers": {
+        "uid": "devourers",
+        "numReq": 3,
+        "counter1": "t_repairs",
+        "counter2": null,
+        "counter3": null,
+        "modifier": null
+    },
+    "hordes": {
+        "uid": "hordes",
+        "numReq": 3,
+        "counter1": "t_tactics",
+        "counter2": null,
+        "counter3": null,
+        "modifier": null
+    }
+}

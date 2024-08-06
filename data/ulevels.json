@@ -1,0 +1,4004 @@
+{
+    "ulevels": [
+        {
+            "level": 1,
+            "xp": 300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 50
+        },
+        {
+            "level": 2,
+            "xp": 600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 75
+        },
+        {
+            "level": 3,
+            "xp": 900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 100
+        },
+        {
+            "level": 4,
+            "xp": 1400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 125
+        },
+        {
+            "level": 5,
+            "xp": 2100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 150
+        },
+        {
+            "level": 6,
+            "xp": 3100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 1,
+            "averageGold": 200
+        },
+        {
+            "level": 7,
+            "xp": 4500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 250
+        },
+        {
+            "level": 8,
+            "xp": 6400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 300
+        },
+        {
+            "level": 9,
+            "xp": 9100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 400
+        },
+        {
+            "level": 10,
+            "xp": 14300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 500
+        },
+        {
+            "level": 11,
+            "xp": 20500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 600
+        },
+        {
+            "level": 12,
+            "xp": 27800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 700
+        },
+        {
+            "level": 13,
+            "xp": 36400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 2,
+            "averageGold": 800
+        },
+        {
+            "level": 14,
+            "xp": 46600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 1000
+        },
+        {
+            "level": 15,
+            "xp": 58600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 1250
+        },
+        {
+            "level": 16,
+            "xp": 72800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 1500
+        },
+        {
+            "level": 17,
+            "xp": 89500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 2000
+        },
+        {
+            "level": 18,
+            "xp": 109300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 2500
+        },
+        {
+            "level": 19,
+            "xp": 132600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 5000
+        },
+        {
+            "level": 20,
+            "xp": 160100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 3,
+            "averageGold": 7500
+        },
+        {
+            "level": 21,
+            "xp": 192600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 10000
+        },
+        {
+            "level": 22,
+            "xp": 231000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 12500
+        },
+        {
+            "level": 23,
+            "xp": 276300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 15000
+        },
+        {
+            "level": 24,
+            "xp": 329800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 20000
+        },
+        {
+            "level": 25,
+            "xp": 392900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 25000
+        },
+        {
+            "level": 26,
+            "xp": 467400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 30000
+        },
+        {
+            "level": 27,
+            "xp": 555300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 4,
+            "averageGold": 40000
+        },
+        {
+            "level": 28,
+            "xp": 659100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 50000
+        },
+        {
+            "level": 29,
+            "xp": 781600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 75000
+        },
+        {
+            "level": 30,
+            "xp": 926100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 100000
+        },
+        {
+            "level": 31,
+            "xp": 1096700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 125000
+        },
+        {
+            "level": 32,
+            "xp": 1298100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 150000
+        },
+        {
+            "level": 33,
+            "xp": 1535800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 200000
+        },
+        {
+            "level": 34,
+            "xp": 1816300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 5,
+            "averageGold": 250000
+        },
+        {
+            "level": 35,
+            "xp": 2147400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 6,
+            "averageGold": 300000
+        },
+        {
+            "level": 36,
+            "xp": 2538200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 6,
+            "averageGold": 400000
+        },
+        {
+            "level": 37,
+            "xp": 2999500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 6,
+            "averageGold": 500000
+        },
+        {
+            "level": 38,
+            "xp": 3544000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 6,
+            "averageGold": 750000
+        },
+        {
+            "level": 39,
+            "xp": 4186700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 6,
+            "averageGold": 1000000
+        },
+        {
+            "level": 40,
+            "xp": 4945300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 7,
+            "averageGold": 1500000
+        },
+        {
+            "level": 41,
+            "xp": 5840700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 7,
+            "averageGold": 2000000
+        },
+        {
+            "level": 42,
+            "xp": 6897500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 7,
+            "averageGold": 2500000
+        },
+        {
+            "level": 43,
+            "xp": 8144900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 7,
+            "averageGold": 3000000
+        },
+        {
+            "level": 44,
+            "xp": 9617200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 7,
+            "averageGold": 3500000
+        },
+        {
+            "level": 45,
+            "xp": 11355000,
+            "gems": 5,
+            "rewards": "key_artifact01",
+            "tradeTier": 8,
+            "averageGold": 4000000
+        },
+        {
+            "level": 46,
+            "xp": 13406200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 8,
+            "averageGold": 4500000
+        },
+        {
+            "level": 47,
+            "xp": 15827200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 8,
+            "averageGold": 5000000
+        },
+        {
+            "level": 48,
+            "xp": 18684800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 8,
+            "averageGold": 5500000
+        },
+        {
+            "level": 49,
+            "xp": 22057700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 8,
+            "averageGold": 6000000
+        },
+        {
+            "level": 50,
+            "xp": 26038800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 9,
+            "averageGold": 6500000
+        },
+        {
+            "level": 51,
+            "xp": 30737700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 9,
+            "averageGold": 7000000
+        },
+        {
+            "level": 52,
+            "xp": 36284000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 9,
+            "averageGold": 7500000
+        },
+        {
+            "level": 53,
+            "xp": 42830400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 10,
+            "averageGold": 8000000
+        },
+        {
+            "level": 54,
+            "xp": 50557200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 10,
+            "averageGold": 8500000
+        },
+        {
+            "level": 55,
+            "xp": 59677300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 10,
+            "averageGold": 9000000
+        },
+        {
+            "level": 56,
+            "xp": 70442000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 11,
+            "averageGold": 9500000
+        },
+        {
+            "level": 57,
+            "xp": 83147700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 11,
+            "averageGold": 10000000
+        },
+        {
+            "level": 58,
+            "xp": 98144500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 11,
+            "averageGold": 10500000
+        },
+        {
+            "level": 59,
+            "xp": 115845600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 12,
+            "averageGold": 11000000
+        },
+        {
+            "level": 60,
+            "xp": 136738600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 12,
+            "averageGold": 11500000
+        },
+        {
+            "level": 61,
+            "xp": 161399000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 12,
+            "averageGold": 12000000
+        },
+        {
+            "level": 62,
+            "xp": 190506200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 13,
+            "averageGold": 12500000
+        },
+        {
+            "level": 63,
+            "xp": 224862000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 13,
+            "averageGold": 13000000
+        },
+        {
+            "level": 64,
+            "xp": 265412900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 13,
+            "averageGold": 13500000
+        },
+        {
+            "level": 65,
+            "xp": 313275900,
+            "gems": 5,
+            "rewards": "key_artifact02",
+            "tradeTier": 13,
+            "averageGold": 14000000
+        },
+        {
+            "level": 66,
+            "xp": 369769600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 14500000
+        },
+        {
+            "level": 67,
+            "xp": 436450300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 15000000
+        },
+        {
+            "level": 68,
+            "xp": 515154900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 15500000
+        },
+        {
+            "level": 69,
+            "xp": 608051500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 16000000
+        },
+        {
+            "level": 70,
+            "xp": 717699300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 16500000
+        },
+        {
+            "level": 71,
+            "xp": 847118900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 17000000
+        },
+        {
+            "level": 72,
+            "xp": 999875500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 17500000
+        },
+        {
+            "level": 73,
+            "xp": 1180177300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 18000000
+        },
+        {
+            "level": 74,
+            "xp": 1392991200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 18500000
+        },
+        {
+            "level": 75,
+            "xp": 1644179800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 19000000
+        },
+        {
+            "level": 76,
+            "xp": 1940662900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 19500000
+        },
+        {
+            "level": 77,
+            "xp": 2290608100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 20000000
+        },
+        {
+            "level": 78,
+            "xp": 2703655600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 20500000
+        },
+        {
+            "level": 79,
+            "xp": 3191184100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 21000000
+        },
+        {
+            "level": 80,
+            "xp": 3766624000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 21500000
+        },
+        {
+            "level": 81,
+            "xp": 4445827600,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 22000000
+        },
+        {
+            "level": 82,
+            "xp": 5247505700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 22500000
+        },
+        {
+            "level": 83,
+            "xp": 6193742900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 23000000
+        },
+        {
+            "level": 84,
+            "xp": 7310606100,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 23500000
+        },
+        {
+            "level": 85,
+            "xp": 8628862800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 24000000
+        },
+        {
+            "level": 86,
+            "xp": 10184828400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 24500000
+        },
+        {
+            "level": 87,
+            "xp": 12021366700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 25000000
+        },
+        {
+            "level": 88,
+            "xp": 14189070800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 25500000
+        },
+        {
+            "level": 89,
+            "xp": 16747656700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 26000000
+        },
+        {
+            "level": 90,
+            "xp": 19767608400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 26500000
+        },
+        {
+            "level": 91,
+            "xp": 23332119700,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 27000000
+        },
+        {
+            "level": 92,
+            "xp": 27539386000,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 27500000
+        },
+        {
+            "level": 93,
+            "xp": 32505309200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 28000000
+        },
+        {
+            "level": 94,
+            "xp": 38366690800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 28500000
+        },
+        {
+            "level": 95,
+            "xp": 45285000500,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 29000000
+        },
+        {
+            "level": 96,
+            "xp": 53450824200,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 29500000
+        },
+        {
+            "level": 97,
+            "xp": 63089114400,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 30000000
+        },
+        {
+            "level": 98,
+            "xp": 74465387300,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 30500000
+        },
+        {
+            "level": 99,
+            "xp": 87893036900,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 100,
+            "xp": 103741968800,
+            "gems": 5,
+            "rewards": null,
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 101,
+            "xp": 375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 102,
+            "xp": 750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 103,
+            "xp": 1125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 104,
+            "xp": 1750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 105,
+            "xp": 2625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 106,
+            "xp": 3875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 107,
+            "xp": 5625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 108,
+            "xp": 8000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 109,
+            "xp": 11375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 110,
+            "xp": 17875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 111,
+            "xp": 25625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 112,
+            "xp": 34750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 113,
+            "xp": 45500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 114,
+            "xp": 58250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 115,
+            "xp": 73250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 116,
+            "xp": 91000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 117,
+            "xp": 111875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 118,
+            "xp": 136625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 119,
+            "xp": 165750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 120,
+            "xp": 200125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 121,
+            "xp": 240750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 122,
+            "xp": 288750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 123,
+            "xp": 345375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 124,
+            "xp": 412250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 125,
+            "xp": 491125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 126,
+            "xp": 584250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 127,
+            "xp": 694125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 128,
+            "xp": 823875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 129,
+            "xp": 977000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 130,
+            "xp": 1157625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 131,
+            "xp": 1370875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 132,
+            "xp": 1622625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 133,
+            "xp": 1919750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 134,
+            "xp": 2270375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 135,
+            "xp": 2684250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 136,
+            "xp": 3172750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 137,
+            "xp": 3749375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 138,
+            "xp": 4430000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 139,
+            "xp": 5233375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 140,
+            "xp": 6181625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 141,
+            "xp": 7300875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 142,
+            "xp": 8621875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 143,
+            "xp": 10181125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 144,
+            "xp": 12021500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 145,
+            "xp": 14193750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 146,
+            "xp": 16757750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 147,
+            "xp": 19784000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 148,
+            "xp": 23356000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 149,
+            "xp": 27572125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 150,
+            "xp": 32548500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 151,
+            "xp": 38422125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 152,
+            "xp": 45355000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 153,
+            "xp": 53538000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 154,
+            "xp": 63196500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 155,
+            "xp": 74596625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 156,
+            "xp": 88052500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 157,
+            "xp": 103934625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 158,
+            "xp": 122680625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 159,
+            "xp": 144807000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 160,
+            "xp": 170923250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 161,
+            "xp": 201748750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 162,
+            "xp": 238132750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 163,
+            "xp": 281077500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 164,
+            "xp": 331766125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 165,
+            "xp": 391594875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 166,
+            "xp": 462212000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 167,
+            "xp": 545562875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 168,
+            "xp": 643943625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 169,
+            "xp": 760064375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 170,
+            "xp": 897124125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 171,
+            "xp": 1058898625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 172,
+            "xp": 1249844375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 173,
+            "xp": 1475221625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 174,
+            "xp": 1741239000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 175,
+            "xp": 2055224750,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 176,
+            "xp": 2425828625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 177,
+            "xp": 2863260125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 178,
+            "xp": 3379569500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 179,
+            "xp": 3988980125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 180,
+            "xp": 4708280000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 181,
+            "xp": 5557284500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 182,
+            "xp": 6559382125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 183,
+            "xp": 7742178625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 184,
+            "xp": 9138257625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 185,
+            "xp": 10786078500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 186,
+            "xp": 12731035500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 187,
+            "xp": 15026708375,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 188,
+            "xp": 17736338500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 189,
+            "xp": 20934570875,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 190,
+            "xp": 24709510500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 191,
+            "xp": 29165149625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 192,
+            "xp": 34424232500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 193,
+            "xp": 40631636500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 194,
+            "xp": 47958363500,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 195,
+            "xp": 56606250625,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 196,
+            "xp": 66813530250,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 197,
+            "xp": 78861393000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 198,
+            "xp": 93081734125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 199,
+            "xp": 109866296125,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 200,
+            "xp": 129677461000,
+            "gems": 5,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 201,
+            "xp": 469,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 202,
+            "xp": 938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 203,
+            "xp": 1406,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 204,
+            "xp": 2188,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 205,
+            "xp": 3281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 206,
+            "xp": 4844,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 207,
+            "xp": 7031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 208,
+            "xp": 10000,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 209,
+            "xp": 14219,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 210,
+            "xp": 22344,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 211,
+            "xp": 32031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 212,
+            "xp": 43438,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 213,
+            "xp": 56875,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 214,
+            "xp": 72813,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 215,
+            "xp": 91563,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 216,
+            "xp": 113750,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 217,
+            "xp": 139844,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 218,
+            "xp": 170781,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 219,
+            "xp": 207188,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 220,
+            "xp": 250156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 221,
+            "xp": 300938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 222,
+            "xp": 360938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 223,
+            "xp": 431719,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 224,
+            "xp": 515313,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 225,
+            "xp": 613906,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 226,
+            "xp": 730313,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 227,
+            "xp": 867656,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 228,
+            "xp": 1029844,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 229,
+            "xp": 1221250,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 230,
+            "xp": 1447031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 231,
+            "xp": 1713594,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 232,
+            "xp": 2028281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 233,
+            "xp": 2399688,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 234,
+            "xp": 2837969,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 235,
+            "xp": 3355313,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 236,
+            "xp": 3965938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 237,
+            "xp": 4686719,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 238,
+            "xp": 5537500,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 239,
+            "xp": 6541719,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 240,
+            "xp": 7727031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 241,
+            "xp": 9126094,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 242,
+            "xp": 10777344,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 243,
+            "xp": 12726406,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 244,
+            "xp": 15026875,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 245,
+            "xp": 17742188,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 246,
+            "xp": 20947188,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 247,
+            "xp": 24730000,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 248,
+            "xp": 29195000,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 249,
+            "xp": 34465156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 250,
+            "xp": 40685625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 251,
+            "xp": 48027656,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 252,
+            "xp": 56693750,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 253,
+            "xp": 66922500,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 254,
+            "xp": 78995625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 255,
+            "xp": 93245781,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 256,
+            "xp": 110065625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 257,
+            "xp": 129918281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 258,
+            "xp": 153350781,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 259,
+            "xp": 181008750,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 260,
+            "xp": 213654063,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 261,
+            "xp": 252185938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 262,
+            "xp": 297665938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 263,
+            "xp": 351346875,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 264,
+            "xp": 414707656,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 265,
+            "xp": 489493594,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 266,
+            "xp": 577765000,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 267,
+            "xp": 681953594,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 268,
+            "xp": 804929531,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 269,
+            "xp": 950080469,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 270,
+            "xp": 1121405156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 271,
+            "xp": 1323623281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 272,
+            "xp": 1562305469,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 273,
+            "xp": 1844027031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 274,
+            "xp": 2176548750,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 275,
+            "xp": 2569030938,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 276,
+            "xp": 3032285781,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 277,
+            "xp": 3579075156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 278,
+            "xp": 4224461875,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 279,
+            "xp": 4986225156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 280,
+            "xp": 5885350000,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 281,
+            "xp": 6946605625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 282,
+            "xp": 8199227656,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 283,
+            "xp": 9677723281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 284,
+            "xp": 11422822031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 285,
+            "xp": 13482598125,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 286,
+            "xp": 15913794375,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 287,
+            "xp": 18783385469,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 288,
+            "xp": 22170423125,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 289,
+            "xp": 26168213594,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 290,
+            "xp": 30886888125,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 291,
+            "xp": 36456437031,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 292,
+            "xp": 43030290625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 293,
+            "xp": 50789545625,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 294,
+            "xp": 59947954375,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 295,
+            "xp": 70757813281,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 296,
+            "xp": 83516912813,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 297,
+            "xp": 98576741250,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 298,
+            "xp": 116352167656,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 299,
+            "xp": 137332870156,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 300,
+            "xp": 162096826250,
+            "gems": 10,
+            "rewards": "bp_upgrade;10",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 301,
+            "xp": 586,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 302,
+            "xp": 1172,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 303,
+            "xp": 1758,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 304,
+            "xp": 2734,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 305,
+            "xp": 4102,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 306,
+            "xp": 6055,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 307,
+            "xp": 8789,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 308,
+            "xp": 12500,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 309,
+            "xp": 17773,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 310,
+            "xp": 27930,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 311,
+            "xp": 40039,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 312,
+            "xp": 54297,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 313,
+            "xp": 71094,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 314,
+            "xp": 91016,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 315,
+            "xp": 114453,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 316,
+            "xp": 142188,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 317,
+            "xp": 174805,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 318,
+            "xp": 213477,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 319,
+            "xp": 258984,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 320,
+            "xp": 312695,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 321,
+            "xp": 376172,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 322,
+            "xp": 451172,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 323,
+            "xp": 539648,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 324,
+            "xp": 644141,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 325,
+            "xp": 767383,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 326,
+            "xp": 912891,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 327,
+            "xp": 1084570,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 328,
+            "xp": 1287305,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 329,
+            "xp": 1526563,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 330,
+            "xp": 1808789,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 331,
+            "xp": 2141992,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 332,
+            "xp": 2535352,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 333,
+            "xp": 2999609,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 334,
+            "xp": 3547461,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 335,
+            "xp": 4194141,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 336,
+            "xp": 4957422,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 337,
+            "xp": 5858398,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 338,
+            "xp": 6921875,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 339,
+            "xp": 8177148,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 340,
+            "xp": 9658789,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 341,
+            "xp": 11407617,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 342,
+            "xp": 13471680,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 343,
+            "xp": 15908008,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 344,
+            "xp": 18783594,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 345,
+            "xp": 22177734,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 346,
+            "xp": 26183984,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 347,
+            "xp": 30912500,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 348,
+            "xp": 36493750,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 349,
+            "xp": 43081445,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 350,
+            "xp": 50857031,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 351,
+            "xp": 60034570,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 352,
+            "xp": 70867188,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 353,
+            "xp": 83653125,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 354,
+            "xp": 98744531,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 355,
+            "xp": 116557227,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 356,
+            "xp": 137582031,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 357,
+            "xp": 162397852,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 358,
+            "xp": 191688477,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 359,
+            "xp": 226260938,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 360,
+            "xp": 267067578,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 361,
+            "xp": 315232422,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 362,
+            "xp": 372082422,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 363,
+            "xp": 439183594,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 364,
+            "xp": 518384570,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 365,
+            "xp": 611866992,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 366,
+            "xp": 722206250,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 367,
+            "xp": 852441992,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 368,
+            "xp": 1006161914,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 369,
+            "xp": 1187600586,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 370,
+            "xp": 1401756445,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 371,
+            "xp": 1654529102,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 372,
+            "xp": 1952881836,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 373,
+            "xp": 2305033789,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 374,
+            "xp": 2720685938,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 375,
+            "xp": 3211288672,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 376,
+            "xp": 3790357227,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 377,
+            "xp": 4473843945,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 378,
+            "xp": 5280577344,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 379,
+            "xp": 6232781445,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 380,
+            "xp": 7356687500,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 381,
+            "xp": 8683257031,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 382,
+            "xp": 10249034570,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 383,
+            "xp": 12097154102,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 384,
+            "xp": 14278527539,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 385,
+            "xp": 16853247656,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 386,
+            "xp": 19892242969,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 387,
+            "xp": 23479231836,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 388,
+            "xp": 27713028906,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 389,
+            "xp": 32710266992,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 390,
+            "xp": 38608610156,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 391,
+            "xp": 45570546289,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 392,
+            "xp": 53787863281,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 393,
+            "xp": 63486932031,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 394,
+            "xp": 74934942969,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 395,
+            "xp": 88447266602,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 396,
+            "xp": 104396141016,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 397,
+            "xp": 123220926563,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 398,
+            "xp": 145440209570,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 399,
+            "xp": 171666087695,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 400,
+            "xp": 202621032813,
+            "gems": 10,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 401,
+            "xp": 732,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 402,
+            "xp": 1465,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 403,
+            "xp": 2197,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 404,
+            "xp": 3418,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 405,
+            "xp": 5127,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 406,
+            "xp": 7568,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 407,
+            "xp": 10986,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 408,
+            "xp": 15625,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 409,
+            "xp": 22217,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 410,
+            "xp": 34912,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 411,
+            "xp": 50049,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 412,
+            "xp": 67871,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 413,
+            "xp": 88867,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 414,
+            "xp": 113770,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 415,
+            "xp": 143066,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 416,
+            "xp": 177734,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 417,
+            "xp": 218506,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 418,
+            "xp": 266846,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 419,
+            "xp": 323730,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 420,
+            "xp": 390869,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 421,
+            "xp": 470215,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 422,
+            "xp": 563965,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 423,
+            "xp": 674561,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 424,
+            "xp": 805176,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 425,
+            "xp": 959229,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 426,
+            "xp": 1141113,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 427,
+            "xp": 1355713,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 428,
+            "xp": 1609131,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 429,
+            "xp": 1908203,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 430,
+            "xp": 2260986,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 431,
+            "xp": 2677490,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 432,
+            "xp": 3169189,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 433,
+            "xp": 3749512,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 434,
+            "xp": 4434326,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 435,
+            "xp": 5242676,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 436,
+            "xp": 6196777,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 437,
+            "xp": 7322998,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 438,
+            "xp": 8652344,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 439,
+            "xp": 10221436,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 440,
+            "xp": 12073486,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 441,
+            "xp": 14259521,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 442,
+            "xp": 16839600,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 443,
+            "xp": 19885010,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 444,
+            "xp": 23479492,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 445,
+            "xp": 27722168,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 446,
+            "xp": 32729980,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 447,
+            "xp": 38640625,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 448,
+            "xp": 45617188,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 449,
+            "xp": 53851807,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 450,
+            "xp": 63571289,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 451,
+            "xp": 75043213,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 452,
+            "xp": 88583984,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 453,
+            "xp": 104566406,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 454,
+            "xp": 123430664,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 455,
+            "xp": 145696533,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 456,
+            "xp": 171977539,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 457,
+            "xp": 202997315,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 458,
+            "xp": 239610596,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 459,
+            "xp": 282826172,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 460,
+            "xp": 333834473,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 461,
+            "xp": 394040527,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 462,
+            "xp": 465103027,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 463,
+            "xp": 548979492,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 464,
+            "xp": 647980713,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 465,
+            "xp": 764833740,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 466,
+            "xp": 902757813,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 467,
+            "xp": 1065552490,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 468,
+            "xp": 1257702393,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 469,
+            "xp": 1484500732,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 470,
+            "xp": 1752195557,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 471,
+            "xp": 2068161377,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 472,
+            "xp": 2441102295,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 473,
+            "xp": 2881292236,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 474,
+            "xp": 3400857422,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 475,
+            "xp": 4014110840,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 476,
+            "xp": 4737946533,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 477,
+            "xp": 5592304932,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 478,
+            "xp": 6600721680,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 479,
+            "xp": 7790976807,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 480,
+            "xp": 9195859375,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 481,
+            "xp": 10854071289,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 482,
+            "xp": 12811293213,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 483,
+            "xp": 15121442627,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 484,
+            "xp": 17848159424,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 485,
+            "xp": 21066559570,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 486,
+            "xp": 24865303711,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 487,
+            "xp": 29349039795,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 488,
+            "xp": 34641286133,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 489,
+            "xp": 40887833740,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 490,
+            "xp": 48260762695,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 491,
+            "xp": 56963182861,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 492,
+            "xp": 67234829102,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 493,
+            "xp": 79358665039,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 494,
+            "xp": 93668678711,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 495,
+            "xp": 110559083252,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 496,
+            "xp": 130495176270,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 497,
+            "xp": 154026158203,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 498,
+            "xp": 181800261963,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 499,
+            "xp": 214582609619,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        },
+        {
+            "level": 500,
+            "xp": 253276291016,
+            "gems": 15,
+            "rewards": "bp_upgrade;20",
+            "tradeTier": 14,
+            "averageGold": 31000000
+        }
+    ]
+}

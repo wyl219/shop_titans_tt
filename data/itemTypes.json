@@ -1,0 +1,212 @@
+{
+    "ah": {
+        "uid": "ah",
+        "buyAnimId": 6,
+        "questAnimId": 0,
+        "slot": "body"
+    },
+    "al": {
+        "uid": "al",
+        "buyAnimId": 6,
+        "questAnimId": 0,
+        "slot": "body"
+    },
+    "am": {
+        "uid": "am",
+        "buyAnimId": 6,
+        "questAnimId": 0,
+        "slot": "body"
+    },
+    "bh": {
+        "uid": "bh",
+        "buyAnimId": 7,
+        "questAnimId": 0,
+        "slot": "feet"
+    },
+    "bl": {
+        "uid": "bl",
+        "buyAnimId": 7,
+        "questAnimId": 0,
+        "slot": "feet"
+    },
+    "gh": {
+        "uid": "gh",
+        "buyAnimId": 8,
+        "questAnimId": 0,
+        "slot": "hands"
+    },
+    "gl": {
+        "uid": "gl",
+        "buyAnimId": 8,
+        "questAnimId": 0,
+        "slot": "hands"
+    },
+    "hh": {
+        "uid": "hh",
+        "buyAnimId": 9,
+        "questAnimId": 0,
+        "slot": "head"
+    },
+    "hl": {
+        "uid": "hl",
+        "buyAnimId": 9,
+        "questAnimId": 0,
+        "slot": "head"
+    },
+    "hm": {
+        "uid": "hm",
+        "buyAnimId": 9,
+        "questAnimId": 0,
+        "slot": "head"
+    },
+    "uh": {
+        "uid": "uh",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "up": {
+        "uid": "up",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "us": {
+        "uid": "us",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "wa": {
+        "uid": "wa",
+        "buyAnimId": 2,
+        "questAnimId": 2,
+        "slot": "weapon_2"
+    },
+    "wb": {
+        "uid": "wb",
+        "buyAnimId": 13,
+        "questAnimId": 3,
+        "slot": "weapon_2"
+    },
+    "wc": {
+        "uid": "wc",
+        "buyAnimId": 4,
+        "questAnimId": 4,
+        "slot": "weapon_2"
+    },
+    "wd": {
+        "uid": "wd",
+        "buyAnimId": 3,
+        "questAnimId": 5,
+        "slot": "left_hip"
+    },
+    "wg": {
+        "uid": "wg",
+        "buyAnimId": 15,
+        "questAnimId": 6,
+        "slot": "left_hip"
+    },
+    "wm": {
+        "uid": "wm",
+        "buyAnimId": 1,
+        "questAnimId": 7,
+        "slot": "weapon_1"
+    },
+    "wp": {
+        "uid": "wp",
+        "buyAnimId": 14,
+        "questAnimId": 8,
+        "slot": "weapon_1"
+    },
+    "ws": {
+        "uid": "ws",
+        "buyAnimId": 1,
+        "questAnimId": 1,
+        "slot": "weapon_1"
+    },
+    "wt": {
+        "uid": "wt",
+        "buyAnimId": 14,
+        "questAnimId": 9,
+        "slot": "weapon_1"
+    },
+    "ww": {
+        "uid": "ww",
+        "buyAnimId": 5,
+        "questAnimId": 10,
+        "slot": "left_hip"
+    },
+    "xa": {
+        "uid": "xa",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "xc": {
+        "uid": "xc",
+        "buyAnimId": 12,
+        "questAnimId": 0,
+        "slot": "cloak"
+    },
+    "xf": {
+        "uid": "xf",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "familiar"
+    },
+    "xr": {
+        "uid": "xr",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "xs": {
+        "uid": "xs",
+        "buyAnimId": 11,
+        "questAnimId": 14,
+        "slot": "weapon_2"
+    },
+    "xu": {
+        "uid": "xu",
+        "buyAnimId": 10,
+        "questAnimId": 0,
+        "slot": "right_hip"
+    },
+    "z": {
+        "uid": "z",
+        "buyAnimId": 0,
+        "questAnimId": 0,
+        "slot": null
+    },
+    "xm": {
+        "uid": "xm",
+        "buyAnimId": 0,
+        "questAnimId": 0,
+        "slot": null
+    },
+    "fm": {
+        "uid": "fm",
+        "buyAnimId": 17,
+        "questAnimId": 0,
+        "slot": null
+    },
+    "fd": {
+        "uid": "fd",
+        "buyAnimId": 17,
+        "questAnimId": 0,
+        "slot": null
+    },
+    "wi": {
+        "uid": "wi",
+        "buyAnimId": 99,
+        "questAnimId": 99,
+        "slot": null
+    },
+    "xx": {
+        "uid": "xx",
+        "buyAnimId": 0,
+        "questAnimId": 0,
+        "slot": "aurastone"
+    }
+}

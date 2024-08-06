@@ -1,0 +1,4842 @@
+{
+    "level01": {
+        "uid": "level01",
+        "family": "level",
+        "index": 0,
+        "level": 1,
+        "levelReq": 0,
+        "cost": 0,
+        "isBoost": false,
+        "effect": "level:1"
+    },
+    "level02": {
+        "uid": "level02",
+        "family": "level",
+        "index": 0,
+        "level": 2,
+        "levelReq": 1,
+        "cost": 5,
+        "isBoost": false,
+        "effect": "level:2"
+    },
+    "level03": {
+        "uid": "level03",
+        "family": "level",
+        "index": 0,
+        "level": 3,
+        "levelReq": 2,
+        "cost": 5,
+        "isBoost": false,
+        "effect": "level:3"
+    },
+    "level04": {
+        "uid": "level04",
+        "family": "level",
+        "index": 0,
+        "level": 4,
+        "levelReq": 3,
+        "cost": 5,
+        "isBoost": false,
+        "effect": "level:4"
+    },
+    "level05": {
+        "uid": "level05",
+        "family": "level",
+        "index": 0,
+        "level": 5,
+        "levelReq": 4,
+        "cost": 5,
+        "isBoost": false,
+        "effect": "level:5"
+    },
+    "level06": {
+        "uid": "level06",
+        "family": "level",
+        "index": 0,
+        "level": 6,
+        "levelReq": 5,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "level:6"
+    },
+    "level07": {
+        "uid": "level07",
+        "family": "level",
+        "index": 0,
+        "level": 7,
+        "levelReq": 6,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "level:7"
+    },
+    "level08": {
+        "uid": "level08",
+        "family": "level",
+        "index": 0,
+        "level": 8,
+        "levelReq": 7,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "level:8"
+    },
+    "level09": {
+        "uid": "level09",
+        "family": "level",
+        "index": 0,
+        "level": 9,
+        "levelReq": 8,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "level:9"
+    },
+    "level10": {
+        "uid": "level10",
+        "family": "level",
+        "index": 0,
+        "level": 10,
+        "levelReq": 9,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "level:10"
+    },
+    "level11": {
+        "uid": "level11",
+        "family": "level",
+        "index": 0,
+        "level": 11,
+        "levelReq": 10,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "level:11"
+    },
+    "level12": {
+        "uid": "level12",
+        "family": "level",
+        "index": 0,
+        "level": 12,
+        "levelReq": 11,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "level:12"
+    },
+    "level13": {
+        "uid": "level13",
+        "family": "level",
+        "index": 0,
+        "level": 13,
+        "levelReq": 12,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "level:13"
+    },
+    "level14": {
+        "uid": "level14",
+        "family": "level",
+        "index": 0,
+        "level": 14,
+        "levelReq": 13,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "level:14"
+    },
+    "level15": {
+        "uid": "level15",
+        "family": "level",
+        "index": 0,
+        "level": 15,
+        "levelReq": 14,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "level:15"
+    },
+    "level16": {
+        "uid": "level16",
+        "family": "level",
+        "index": 0,
+        "level": 16,
+        "levelReq": 15,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "level:16"
+    },
+    "level17": {
+        "uid": "level17",
+        "family": "level",
+        "index": 0,
+        "level": 17,
+        "levelReq": 16,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "level:17"
+    },
+    "level18": {
+        "uid": "level18",
+        "family": "level",
+        "index": 0,
+        "level": 18,
+        "levelReq": 17,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "level:18"
+    },
+    "level19": {
+        "uid": "level19",
+        "family": "level",
+        "index": 0,
+        "level": 19,
+        "levelReq": 18,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "level:19"
+    },
+    "level20": {
+        "uid": "level20",
+        "family": "level",
+        "index": 0,
+        "level": 20,
+        "levelReq": 19,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "level:20"
+    },
+    "level21": {
+        "uid": "level21",
+        "family": "level",
+        "index": 0,
+        "level": 21,
+        "levelReq": 20,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "level:21"
+    },
+    "level22": {
+        "uid": "level22",
+        "family": "level",
+        "index": 0,
+        "level": 22,
+        "levelReq": 21,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "level:22"
+    },
+    "level23": {
+        "uid": "level23",
+        "family": "level",
+        "index": 0,
+        "level": 23,
+        "levelReq": 22,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "level:23"
+    },
+    "level24": {
+        "uid": "level24",
+        "family": "level",
+        "index": 0,
+        "level": 24,
+        "levelReq": 23,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "level:24"
+    },
+    "level25": {
+        "uid": "level25",
+        "family": "level",
+        "index": 0,
+        "level": 25,
+        "levelReq": 24,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "level:25"
+    },
+    "level26": {
+        "uid": "level26",
+        "family": "level",
+        "index": 0,
+        "level": 26,
+        "levelReq": 25,
+        "cost": 40,
+        "isBoost": false,
+        "effect": "level:26"
+    },
+    "level27": {
+        "uid": "level27",
+        "family": "level",
+        "index": 0,
+        "level": 27,
+        "levelReq": 26,
+        "cost": 40,
+        "isBoost": false,
+        "effect": "level:27"
+    },
+    "level28": {
+        "uid": "level28",
+        "family": "level",
+        "index": 0,
+        "level": 28,
+        "levelReq": 27,
+        "cost": 40,
+        "isBoost": false,
+        "effect": "level:28"
+    },
+    "level29": {
+        "uid": "level29",
+        "family": "level",
+        "index": 0,
+        "level": 29,
+        "levelReq": 28,
+        "cost": 40,
+        "isBoost": false,
+        "effect": "level:29"
+    },
+    "level30": {
+        "uid": "level30",
+        "family": "level",
+        "index": 0,
+        "level": 30,
+        "levelReq": 29,
+        "cost": 40,
+        "isBoost": false,
+        "effect": "level:30"
+    },
+    "level31": {
+        "uid": "level31",
+        "family": "level",
+        "index": 0,
+        "level": 31,
+        "levelReq": 30,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "level:31"
+    },
+    "level32": {
+        "uid": "level32",
+        "family": "level",
+        "index": 0,
+        "level": 32,
+        "levelReq": 31,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "level:32"
+    },
+    "level33": {
+        "uid": "level33",
+        "family": "level",
+        "index": 0,
+        "level": 33,
+        "levelReq": 32,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "level:33"
+    },
+    "level34": {
+        "uid": "level34",
+        "family": "level",
+        "index": 0,
+        "level": 34,
+        "levelReq": 33,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "level:34"
+    },
+    "level35": {
+        "uid": "level35",
+        "family": "level",
+        "index": 0,
+        "level": 35,
+        "levelReq": 34,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "level:35"
+    },
+    "level36": {
+        "uid": "level36",
+        "family": "level",
+        "index": 0,
+        "level": 36,
+        "levelReq": 35,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "level:36"
+    },
+    "level37": {
+        "uid": "level37",
+        "family": "level",
+        "index": 0,
+        "level": 37,
+        "levelReq": 36,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "level:37"
+    },
+    "level38": {
+        "uid": "level38",
+        "family": "level",
+        "index": 0,
+        "level": 38,
+        "levelReq": 37,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "level:38"
+    },
+    "level39": {
+        "uid": "level39",
+        "family": "level",
+        "index": 0,
+        "level": 39,
+        "levelReq": 38,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "level:39"
+    },
+    "level40": {
+        "uid": "level40",
+        "family": "level",
+        "index": 0,
+        "level": 40,
+        "levelReq": 39,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "level:40"
+    },
+    "level41": {
+        "uid": "level41",
+        "family": "level",
+        "index": 0,
+        "level": 41,
+        "levelReq": 40,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "level:41"
+    },
+    "level42": {
+        "uid": "level42",
+        "family": "level",
+        "index": 0,
+        "level": 42,
+        "levelReq": 41,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "level:42"
+    },
+    "level43": {
+        "uid": "level43",
+        "family": "level",
+        "index": 0,
+        "level": 43,
+        "levelReq": 42,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "level:43"
+    },
+    "level44": {
+        "uid": "level44",
+        "family": "level",
+        "index": 0,
+        "level": 44,
+        "levelReq": 43,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "level:44"
+    },
+    "level45": {
+        "uid": "level45",
+        "family": "level",
+        "index": 0,
+        "level": 45,
+        "levelReq": 44,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "level:45"
+    },
+    "level46": {
+        "uid": "level46",
+        "family": "level",
+        "index": 0,
+        "level": 46,
+        "levelReq": 45,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "level:46"
+    },
+    "level47": {
+        "uid": "level47",
+        "family": "level",
+        "index": 0,
+        "level": 47,
+        "levelReq": 46,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "level:47"
+    },
+    "level48": {
+        "uid": "level48",
+        "family": "level",
+        "index": 0,
+        "level": 48,
+        "levelReq": 47,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "level:48"
+    },
+    "level49": {
+        "uid": "level49",
+        "family": "level",
+        "index": 0,
+        "level": 49,
+        "levelReq": 48,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "level:49"
+    },
+    "level50": {
+        "uid": "level50",
+        "family": "level",
+        "index": 0,
+        "level": 50,
+        "levelReq": 49,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "level:50"
+    },
+    "level51": {
+        "uid": "level51",
+        "family": "level",
+        "index": 0,
+        "level": 51,
+        "levelReq": 50,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "level:51"
+    },
+    "level52": {
+        "uid": "level52",
+        "family": "level",
+        "index": 0,
+        "level": 52,
+        "levelReq": 51,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "level:52"
+    },
+    "level53": {
+        "uid": "level53",
+        "family": "level",
+        "index": 0,
+        "level": 53,
+        "levelReq": 52,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "level:53"
+    },
+    "level54": {
+        "uid": "level54",
+        "family": "level",
+        "index": 0,
+        "level": 54,
+        "levelReq": 53,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "level:54"
+    },
+    "level55": {
+        "uid": "level55",
+        "family": "level",
+        "index": 0,
+        "level": 55,
+        "levelReq": 54,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "level:55"
+    },
+    "level56": {
+        "uid": "level56",
+        "family": "level",
+        "index": 0,
+        "level": 56,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "level:56"
+    },
+    "level57": {
+        "uid": "level57",
+        "family": "level",
+        "index": 0,
+        "level": 57,
+        "levelReq": 56,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "level:57"
+    },
+    "level58": {
+        "uid": "level58",
+        "family": "level",
+        "index": 0,
+        "level": 58,
+        "levelReq": 57,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "level:58"
+    },
+    "level59": {
+        "uid": "level59",
+        "family": "level",
+        "index": 0,
+        "level": 59,
+        "levelReq": 58,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "level:59"
+    },
+    "level60": {
+        "uid": "level60",
+        "family": "level",
+        "index": 0,
+        "level": 60,
+        "levelReq": 59,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "level:60"
+    },
+    "level61": {
+        "uid": "level61",
+        "family": "level",
+        "index": 0,
+        "level": 61,
+        "levelReq": 60,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "level:61"
+    },
+    "level62": {
+        "uid": "level62",
+        "family": "level",
+        "index": 0,
+        "level": 62,
+        "levelReq": 61,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "level:62"
+    },
+    "level63": {
+        "uid": "level63",
+        "family": "level",
+        "index": 0,
+        "level": 63,
+        "levelReq": 62,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "level:63"
+    },
+    "level64": {
+        "uid": "level64",
+        "family": "level",
+        "index": 0,
+        "level": 64,
+        "levelReq": 63,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "level:64"
+    },
+    "level65": {
+        "uid": "level65",
+        "family": "level",
+        "index": 0,
+        "level": 65,
+        "levelReq": 64,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "level:65"
+    },
+    "level66": {
+        "uid": "level66",
+        "family": "level",
+        "index": 0,
+        "level": 66,
+        "levelReq": 65,
+        "cost": 350,
+        "isBoost": false,
+        "effect": "level:66"
+    },
+    "level67": {
+        "uid": "level67",
+        "family": "level",
+        "index": 0,
+        "level": 67,
+        "levelReq": 66,
+        "cost": 350,
+        "isBoost": false,
+        "effect": "level:67"
+    },
+    "level68": {
+        "uid": "level68",
+        "family": "level",
+        "index": 0,
+        "level": 68,
+        "levelReq": 67,
+        "cost": 350,
+        "isBoost": false,
+        "effect": "level:68"
+    },
+    "level69": {
+        "uid": "level69",
+        "family": "level",
+        "index": 0,
+        "level": 69,
+        "levelReq": 68,
+        "cost": 350,
+        "isBoost": false,
+        "effect": "level:69"
+    },
+    "level70": {
+        "uid": "level70",
+        "family": "level",
+        "index": 0,
+        "level": 70,
+        "levelReq": 69,
+        "cost": 350,
+        "isBoost": false,
+        "effect": "level:70"
+    },
+    "level71": {
+        "uid": "level71",
+        "family": "level",
+        "index": 0,
+        "level": 71,
+        "levelReq": 70,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "level:71"
+    },
+    "level72": {
+        "uid": "level72",
+        "family": "level",
+        "index": 0,
+        "level": 72,
+        "levelReq": 71,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "level:72"
+    },
+    "level73": {
+        "uid": "level73",
+        "family": "level",
+        "index": 0,
+        "level": 73,
+        "levelReq": 72,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "level:73"
+    },
+    "level74": {
+        "uid": "level74",
+        "family": "level",
+        "index": 0,
+        "level": 74,
+        "levelReq": 73,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "level:74"
+    },
+    "level75": {
+        "uid": "level75",
+        "family": "level",
+        "index": 0,
+        "level": 75,
+        "levelReq": 74,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "level:75"
+    },
+    "level76": {
+        "uid": "level76",
+        "family": "level",
+        "index": 0,
+        "level": 76,
+        "levelReq": 75,
+        "cost": 450,
+        "isBoost": false,
+        "effect": "level:76"
+    },
+    "level77": {
+        "uid": "level77",
+        "family": "level",
+        "index": 0,
+        "level": 77,
+        "levelReq": 76,
+        "cost": 450,
+        "isBoost": false,
+        "effect": "level:77"
+    },
+    "level78": {
+        "uid": "level78",
+        "family": "level",
+        "index": 0,
+        "level": 78,
+        "levelReq": 77,
+        "cost": 450,
+        "isBoost": false,
+        "effect": "level:78"
+    },
+    "level79": {
+        "uid": "level79",
+        "family": "level",
+        "index": 0,
+        "level": 79,
+        "levelReq": 78,
+        "cost": 450,
+        "isBoost": false,
+        "effect": "level:79"
+    },
+    "level80": {
+        "uid": "level80",
+        "family": "level",
+        "index": 0,
+        "level": 80,
+        "levelReq": 79,
+        "cost": 450,
+        "isBoost": false,
+        "effect": "level:80"
+    },
+    "level81": {
+        "uid": "level81",
+        "family": "level",
+        "index": 0,
+        "level": 81,
+        "levelReq": 80,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:81"
+    },
+    "level82": {
+        "uid": "level82",
+        "family": "level",
+        "index": 0,
+        "level": 82,
+        "levelReq": 81,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:82"
+    },
+    "level83": {
+        "uid": "level83",
+        "family": "level",
+        "index": 0,
+        "level": 83,
+        "levelReq": 82,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:83"
+    },
+    "level84": {
+        "uid": "level84",
+        "family": "level",
+        "index": 0,
+        "level": 84,
+        "levelReq": 83,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:84"
+    },
+    "level85": {
+        "uid": "level85",
+        "family": "level",
+        "index": 0,
+        "level": 85,
+        "levelReq": 84,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:85"
+    },
+    "level86": {
+        "uid": "level86",
+        "family": "level",
+        "index": 0,
+        "level": 86,
+        "levelReq": 85,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:86"
+    },
+    "level87": {
+        "uid": "level87",
+        "family": "level",
+        "index": 0,
+        "level": 87,
+        "levelReq": 86,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:87"
+    },
+    "level88": {
+        "uid": "level88",
+        "family": "level",
+        "index": 0,
+        "level": 88,
+        "levelReq": 87,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:88"
+    },
+    "level89": {
+        "uid": "level89",
+        "family": "level",
+        "index": 0,
+        "level": 89,
+        "levelReq": 88,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:89"
+    },
+    "level90": {
+        "uid": "level90",
+        "family": "level",
+        "index": 0,
+        "level": 90,
+        "levelReq": 89,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:90"
+    },
+    "level91": {
+        "uid": "level91",
+        "family": "level",
+        "index": 0,
+        "level": 91,
+        "levelReq": 90,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:91"
+    },
+    "level92": {
+        "uid": "level92",
+        "family": "level",
+        "index": 0,
+        "level": 92,
+        "levelReq": 91,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:92"
+    },
+    "level93": {
+        "uid": "level93",
+        "family": "level",
+        "index": 0,
+        "level": 93,
+        "levelReq": 92,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:93"
+    },
+    "level94": {
+        "uid": "level94",
+        "family": "level",
+        "index": 0,
+        "level": 94,
+        "levelReq": 93,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:94"
+    },
+    "level95": {
+        "uid": "level95",
+        "family": "level",
+        "index": 0,
+        "level": 95,
+        "levelReq": 94,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:95"
+    },
+    "level96": {
+        "uid": "level96",
+        "family": "level",
+        "index": 0,
+        "level": 96,
+        "levelReq": 95,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:96"
+    },
+    "level97": {
+        "uid": "level97",
+        "family": "level",
+        "index": 0,
+        "level": 97,
+        "levelReq": 96,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:97"
+    },
+    "level98": {
+        "uid": "level98",
+        "family": "level",
+        "index": 0,
+        "level": 98,
+        "levelReq": 97,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:98"
+    },
+    "level99": {
+        "uid": "level99",
+        "family": "level",
+        "index": 0,
+        "level": 99,
+        "levelReq": 98,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:99"
+    },
+    "level100": {
+        "uid": "level100",
+        "family": "level",
+        "index": 0,
+        "level": 100,
+        "levelReq": 99,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:100"
+    },
+    "level101": {
+        "uid": "level101",
+        "family": "level",
+        "index": 0,
+        "level": 101,
+        "levelReq": 100,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:101"
+    },
+    "level102": {
+        "uid": "level102",
+        "family": "level",
+        "index": 0,
+        "level": 102,
+        "levelReq": 101,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:102"
+    },
+    "level103": {
+        "uid": "level103",
+        "family": "level",
+        "index": 0,
+        "level": 103,
+        "levelReq": 102,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:103"
+    },
+    "level104": {
+        "uid": "level104",
+        "family": "level",
+        "index": 0,
+        "level": 104,
+        "levelReq": 103,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:104"
+    },
+    "level105": {
+        "uid": "level105",
+        "family": "level",
+        "index": 0,
+        "level": 105,
+        "levelReq": 104,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:105"
+    },
+    "level106": {
+        "uid": "level106",
+        "family": "level",
+        "index": 0,
+        "level": 106,
+        "levelReq": 105,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:106"
+    },
+    "level107": {
+        "uid": "level107",
+        "family": "level",
+        "index": 0,
+        "level": 107,
+        "levelReq": 106,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:107"
+    },
+    "level108": {
+        "uid": "level108",
+        "family": "level",
+        "index": 0,
+        "level": 108,
+        "levelReq": 107,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:108"
+    },
+    "level109": {
+        "uid": "level109",
+        "family": "level",
+        "index": 0,
+        "level": 109,
+        "levelReq": 108,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:109"
+    },
+    "level110": {
+        "uid": "level110",
+        "family": "level",
+        "index": 0,
+        "level": 110,
+        "levelReq": 109,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:110"
+    },
+    "level111": {
+        "uid": "level111",
+        "family": "level",
+        "index": 0,
+        "level": 111,
+        "levelReq": 110,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:111"
+    },
+    "level112": {
+        "uid": "level112",
+        "family": "level",
+        "index": 0,
+        "level": 112,
+        "levelReq": 111,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:112"
+    },
+    "level113": {
+        "uid": "level113",
+        "family": "level",
+        "index": 0,
+        "level": 113,
+        "levelReq": 112,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:113"
+    },
+    "level114": {
+        "uid": "level114",
+        "family": "level",
+        "index": 0,
+        "level": 114,
+        "levelReq": 113,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:114"
+    },
+    "level115": {
+        "uid": "level115",
+        "family": "level",
+        "index": 0,
+        "level": 115,
+        "levelReq": 114,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:115"
+    },
+    "level116": {
+        "uid": "level116",
+        "family": "level",
+        "index": 0,
+        "level": 116,
+        "levelReq": 115,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:116"
+    },
+    "level117": {
+        "uid": "level117",
+        "family": "level",
+        "index": 0,
+        "level": 117,
+        "levelReq": 116,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:117"
+    },
+    "level118": {
+        "uid": "level118",
+        "family": "level",
+        "index": 0,
+        "level": 118,
+        "levelReq": 117,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:118"
+    },
+    "level119": {
+        "uid": "level119",
+        "family": "level",
+        "index": 0,
+        "level": 119,
+        "levelReq": 118,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:119"
+    },
+    "level120": {
+        "uid": "level120",
+        "family": "level",
+        "index": 0,
+        "level": 120,
+        "levelReq": 119,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:120"
+    },
+    "level121": {
+        "uid": "level121",
+        "family": "level",
+        "index": 0,
+        "level": 121,
+        "levelReq": 120,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:121"
+    },
+    "level122": {
+        "uid": "level122",
+        "family": "level",
+        "index": 0,
+        "level": 122,
+        "levelReq": 121,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:122"
+    },
+    "level123": {
+        "uid": "level123",
+        "family": "level",
+        "index": 0,
+        "level": 123,
+        "levelReq": 122,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:123"
+    },
+    "level124": {
+        "uid": "level124",
+        "family": "level",
+        "index": 0,
+        "level": 124,
+        "levelReq": 123,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:124"
+    },
+    "level125": {
+        "uid": "level125",
+        "family": "level",
+        "index": 0,
+        "level": 125,
+        "levelReq": 124,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:125"
+    },
+    "level126": {
+        "uid": "level126",
+        "family": "level",
+        "index": 0,
+        "level": 126,
+        "levelReq": 125,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:126"
+    },
+    "level127": {
+        "uid": "level127",
+        "family": "level",
+        "index": 0,
+        "level": 127,
+        "levelReq": 126,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:127"
+    },
+    "level128": {
+        "uid": "level128",
+        "family": "level",
+        "index": 0,
+        "level": 128,
+        "levelReq": 127,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:128"
+    },
+    "level129": {
+        "uid": "level129",
+        "family": "level",
+        "index": 0,
+        "level": 129,
+        "levelReq": 128,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:129"
+    },
+    "level130": {
+        "uid": "level130",
+        "family": "level",
+        "index": 0,
+        "level": 130,
+        "levelReq": 129,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:130"
+    },
+    "level131": {
+        "uid": "level131",
+        "family": "level",
+        "index": 0,
+        "level": 131,
+        "levelReq": 130,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:131"
+    },
+    "level132": {
+        "uid": "level132",
+        "family": "level",
+        "index": 0,
+        "level": 132,
+        "levelReq": 131,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:132"
+    },
+    "level133": {
+        "uid": "level133",
+        "family": "level",
+        "index": 0,
+        "level": 133,
+        "levelReq": 132,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:133"
+    },
+    "level134": {
+        "uid": "level134",
+        "family": "level",
+        "index": 0,
+        "level": 134,
+        "levelReq": 133,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:134"
+    },
+    "level135": {
+        "uid": "level135",
+        "family": "level",
+        "index": 0,
+        "level": 135,
+        "levelReq": 134,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:135"
+    },
+    "level136": {
+        "uid": "level136",
+        "family": "level",
+        "index": 0,
+        "level": 136,
+        "levelReq": 135,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:136"
+    },
+    "level137": {
+        "uid": "level137",
+        "family": "level",
+        "index": 0,
+        "level": 137,
+        "levelReq": 136,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:137"
+    },
+    "level138": {
+        "uid": "level138",
+        "family": "level",
+        "index": 0,
+        "level": 138,
+        "levelReq": 137,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:138"
+    },
+    "level139": {
+        "uid": "level139",
+        "family": "level",
+        "index": 0,
+        "level": 139,
+        "levelReq": 138,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:139"
+    },
+    "level140": {
+        "uid": "level140",
+        "family": "level",
+        "index": 0,
+        "level": 140,
+        "levelReq": 139,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:140"
+    },
+    "level141": {
+        "uid": "level141",
+        "family": "level",
+        "index": 0,
+        "level": 141,
+        "levelReq": 140,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:141"
+    },
+    "level142": {
+        "uid": "level142",
+        "family": "level",
+        "index": 0,
+        "level": 142,
+        "levelReq": 141,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:142"
+    },
+    "level143": {
+        "uid": "level143",
+        "family": "level",
+        "index": 0,
+        "level": 143,
+        "levelReq": 142,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:143"
+    },
+    "level144": {
+        "uid": "level144",
+        "family": "level",
+        "index": 0,
+        "level": 144,
+        "levelReq": 143,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:144"
+    },
+    "level145": {
+        "uid": "level145",
+        "family": "level",
+        "index": 0,
+        "level": 145,
+        "levelReq": 144,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:145"
+    },
+    "level146": {
+        "uid": "level146",
+        "family": "level",
+        "index": 0,
+        "level": 146,
+        "levelReq": 145,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:146"
+    },
+    "level147": {
+        "uid": "level147",
+        "family": "level",
+        "index": 0,
+        "level": 147,
+        "levelReq": 146,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:147"
+    },
+    "level148": {
+        "uid": "level148",
+        "family": "level",
+        "index": 0,
+        "level": 148,
+        "levelReq": 147,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:148"
+    },
+    "level149": {
+        "uid": "level149",
+        "family": "level",
+        "index": 0,
+        "level": 149,
+        "levelReq": 148,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:149"
+    },
+    "level150": {
+        "uid": "level150",
+        "family": "level",
+        "index": 0,
+        "level": 150,
+        "levelReq": 149,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:150"
+    },
+    "level151": {
+        "uid": "level151",
+        "family": "level",
+        "index": 0,
+        "level": 151,
+        "levelReq": 150,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:151"
+    },
+    "level152": {
+        "uid": "level152",
+        "family": "level",
+        "index": 0,
+        "level": 152,
+        "levelReq": 151,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:152"
+    },
+    "level153": {
+        "uid": "level153",
+        "family": "level",
+        "index": 0,
+        "level": 153,
+        "levelReq": 152,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:153"
+    },
+    "level154": {
+        "uid": "level154",
+        "family": "level",
+        "index": 0,
+        "level": 154,
+        "levelReq": 153,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:154"
+    },
+    "level155": {
+        "uid": "level155",
+        "family": "level",
+        "index": 0,
+        "level": 155,
+        "levelReq": 154,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:155"
+    },
+    "level156": {
+        "uid": "level156",
+        "family": "level",
+        "index": 0,
+        "level": 156,
+        "levelReq": 155,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:156"
+    },
+    "level157": {
+        "uid": "level157",
+        "family": "level",
+        "index": 0,
+        "level": 157,
+        "levelReq": 156,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:157"
+    },
+    "level158": {
+        "uid": "level158",
+        "family": "level",
+        "index": 0,
+        "level": 158,
+        "levelReq": 157,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:158"
+    },
+    "level159": {
+        "uid": "level159",
+        "family": "level",
+        "index": 0,
+        "level": 159,
+        "levelReq": 158,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:159"
+    },
+    "level160": {
+        "uid": "level160",
+        "family": "level",
+        "index": 0,
+        "level": 160,
+        "levelReq": 159,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:160"
+    },
+    "level161": {
+        "uid": "level161",
+        "family": "level",
+        "index": 0,
+        "level": 161,
+        "levelReq": 160,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:161"
+    },
+    "level162": {
+        "uid": "level162",
+        "family": "level",
+        "index": 0,
+        "level": 162,
+        "levelReq": 161,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:162"
+    },
+    "level163": {
+        "uid": "level163",
+        "family": "level",
+        "index": 0,
+        "level": 163,
+        "levelReq": 162,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:163"
+    },
+    "level164": {
+        "uid": "level164",
+        "family": "level",
+        "index": 0,
+        "level": 164,
+        "levelReq": 163,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:164"
+    },
+    "level165": {
+        "uid": "level165",
+        "family": "level",
+        "index": 0,
+        "level": 165,
+        "levelReq": 164,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:165"
+    },
+    "level166": {
+        "uid": "level166",
+        "family": "level",
+        "index": 0,
+        "level": 166,
+        "levelReq": 165,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:166"
+    },
+    "level167": {
+        "uid": "level167",
+        "family": "level",
+        "index": 0,
+        "level": 167,
+        "levelReq": 166,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:167"
+    },
+    "level168": {
+        "uid": "level168",
+        "family": "level",
+        "index": 0,
+        "level": 168,
+        "levelReq": 167,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:168"
+    },
+    "level169": {
+        "uid": "level169",
+        "family": "level",
+        "index": 0,
+        "level": 169,
+        "levelReq": 168,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:169"
+    },
+    "level170": {
+        "uid": "level170",
+        "family": "level",
+        "index": 0,
+        "level": 170,
+        "levelReq": 169,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:170"
+    },
+    "level171": {
+        "uid": "level171",
+        "family": "level",
+        "index": 0,
+        "level": 171,
+        "levelReq": 170,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:171"
+    },
+    "level172": {
+        "uid": "level172",
+        "family": "level",
+        "index": 0,
+        "level": 172,
+        "levelReq": 171,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:172"
+    },
+    "level173": {
+        "uid": "level173",
+        "family": "level",
+        "index": 0,
+        "level": 173,
+        "levelReq": 172,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:173"
+    },
+    "level174": {
+        "uid": "level174",
+        "family": "level",
+        "index": 0,
+        "level": 174,
+        "levelReq": 173,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:174"
+    },
+    "level175": {
+        "uid": "level175",
+        "family": "level",
+        "index": 0,
+        "level": 175,
+        "levelReq": 174,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:175"
+    },
+    "level176": {
+        "uid": "level176",
+        "family": "level",
+        "index": 0,
+        "level": 176,
+        "levelReq": 175,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:176"
+    },
+    "level177": {
+        "uid": "level177",
+        "family": "level",
+        "index": 0,
+        "level": 177,
+        "levelReq": 176,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:177"
+    },
+    "level178": {
+        "uid": "level178",
+        "family": "level",
+        "index": 0,
+        "level": 178,
+        "levelReq": 177,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:178"
+    },
+    "level179": {
+        "uid": "level179",
+        "family": "level",
+        "index": 0,
+        "level": 179,
+        "levelReq": 178,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:179"
+    },
+    "level180": {
+        "uid": "level180",
+        "family": "level",
+        "index": 0,
+        "level": 180,
+        "levelReq": 179,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:180"
+    },
+    "level181": {
+        "uid": "level181",
+        "family": "level",
+        "index": 0,
+        "level": 181,
+        "levelReq": 180,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:181"
+    },
+    "level182": {
+        "uid": "level182",
+        "family": "level",
+        "index": 0,
+        "level": 182,
+        "levelReq": 181,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:182"
+    },
+    "level183": {
+        "uid": "level183",
+        "family": "level",
+        "index": 0,
+        "level": 183,
+        "levelReq": 182,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:183"
+    },
+    "level184": {
+        "uid": "level184",
+        "family": "level",
+        "index": 0,
+        "level": 184,
+        "levelReq": 183,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:184"
+    },
+    "level185": {
+        "uid": "level185",
+        "family": "level",
+        "index": 0,
+        "level": 185,
+        "levelReq": 184,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:185"
+    },
+    "level186": {
+        "uid": "level186",
+        "family": "level",
+        "index": 0,
+        "level": 186,
+        "levelReq": 185,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:186"
+    },
+    "level187": {
+        "uid": "level187",
+        "family": "level",
+        "index": 0,
+        "level": 187,
+        "levelReq": 186,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:187"
+    },
+    "level188": {
+        "uid": "level188",
+        "family": "level",
+        "index": 0,
+        "level": 188,
+        "levelReq": 187,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:188"
+    },
+    "level189": {
+        "uid": "level189",
+        "family": "level",
+        "index": 0,
+        "level": 189,
+        "levelReq": 188,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:189"
+    },
+    "level190": {
+        "uid": "level190",
+        "family": "level",
+        "index": 0,
+        "level": 190,
+        "levelReq": 189,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:190"
+    },
+    "level191": {
+        "uid": "level191",
+        "family": "level",
+        "index": 0,
+        "level": 191,
+        "levelReq": 190,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:191"
+    },
+    "level192": {
+        "uid": "level192",
+        "family": "level",
+        "index": 0,
+        "level": 192,
+        "levelReq": 191,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:192"
+    },
+    "level193": {
+        "uid": "level193",
+        "family": "level",
+        "index": 0,
+        "level": 193,
+        "levelReq": 192,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:193"
+    },
+    "level194": {
+        "uid": "level194",
+        "family": "level",
+        "index": 0,
+        "level": 194,
+        "levelReq": 193,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:194"
+    },
+    "level195": {
+        "uid": "level195",
+        "family": "level",
+        "index": 0,
+        "level": 195,
+        "levelReq": 194,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:195"
+    },
+    "level196": {
+        "uid": "level196",
+        "family": "level",
+        "index": 0,
+        "level": 196,
+        "levelReq": 195,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:196"
+    },
+    "level197": {
+        "uid": "level197",
+        "family": "level",
+        "index": 0,
+        "level": 197,
+        "levelReq": 196,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:197"
+    },
+    "level198": {
+        "uid": "level198",
+        "family": "level",
+        "index": 0,
+        "level": 198,
+        "levelReq": 197,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:198"
+    },
+    "level199": {
+        "uid": "level199",
+        "family": "level",
+        "index": 0,
+        "level": 199,
+        "levelReq": 198,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:199"
+    },
+    "level200": {
+        "uid": "level200",
+        "family": "level",
+        "index": 0,
+        "level": 200,
+        "levelReq": 199,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:200"
+    },
+    "level201": {
+        "uid": "level201",
+        "family": "level",
+        "index": 0,
+        "level": 201,
+        "levelReq": 200,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:201"
+    },
+    "level202": {
+        "uid": "level202",
+        "family": "level",
+        "index": 0,
+        "level": 202,
+        "levelReq": 201,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:202"
+    },
+    "level203": {
+        "uid": "level203",
+        "family": "level",
+        "index": 0,
+        "level": 203,
+        "levelReq": 202,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:203"
+    },
+    "level204": {
+        "uid": "level204",
+        "family": "level",
+        "index": 0,
+        "level": 204,
+        "levelReq": 203,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:204"
+    },
+    "level205": {
+        "uid": "level205",
+        "family": "level",
+        "index": 0,
+        "level": 205,
+        "levelReq": 204,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:205"
+    },
+    "level206": {
+        "uid": "level206",
+        "family": "level",
+        "index": 0,
+        "level": 206,
+        "levelReq": 205,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:206"
+    },
+    "level207": {
+        "uid": "level207",
+        "family": "level",
+        "index": 0,
+        "level": 207,
+        "levelReq": 206,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:207"
+    },
+    "level208": {
+        "uid": "level208",
+        "family": "level",
+        "index": 0,
+        "level": 208,
+        "levelReq": 207,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:208"
+    },
+    "level209": {
+        "uid": "level209",
+        "family": "level",
+        "index": 0,
+        "level": 209,
+        "levelReq": 208,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:209"
+    },
+    "level210": {
+        "uid": "level210",
+        "family": "level",
+        "index": 0,
+        "level": 210,
+        "levelReq": 209,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:210"
+    },
+    "level211": {
+        "uid": "level211",
+        "family": "level",
+        "index": 0,
+        "level": 211,
+        "levelReq": 210,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:211"
+    },
+    "level212": {
+        "uid": "level212",
+        "family": "level",
+        "index": 0,
+        "level": 212,
+        "levelReq": 211,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:212"
+    },
+    "level213": {
+        "uid": "level213",
+        "family": "level",
+        "index": 0,
+        "level": 213,
+        "levelReq": 212,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:213"
+    },
+    "level214": {
+        "uid": "level214",
+        "family": "level",
+        "index": 0,
+        "level": 214,
+        "levelReq": 213,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:214"
+    },
+    "level215": {
+        "uid": "level215",
+        "family": "level",
+        "index": 0,
+        "level": 215,
+        "levelReq": 214,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:215"
+    },
+    "level216": {
+        "uid": "level216",
+        "family": "level",
+        "index": 0,
+        "level": 216,
+        "levelReq": 215,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:216"
+    },
+    "level217": {
+        "uid": "level217",
+        "family": "level",
+        "index": 0,
+        "level": 217,
+        "levelReq": 216,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:217"
+    },
+    "level218": {
+        "uid": "level218",
+        "family": "level",
+        "index": 0,
+        "level": 218,
+        "levelReq": 217,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:218"
+    },
+    "level219": {
+        "uid": "level219",
+        "family": "level",
+        "index": 0,
+        "level": 219,
+        "levelReq": 218,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:219"
+    },
+    "level220": {
+        "uid": "level220",
+        "family": "level",
+        "index": 0,
+        "level": 220,
+        "levelReq": 219,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:220"
+    },
+    "level221": {
+        "uid": "level221",
+        "family": "level",
+        "index": 0,
+        "level": 221,
+        "levelReq": 220,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:221"
+    },
+    "level222": {
+        "uid": "level222",
+        "family": "level",
+        "index": 0,
+        "level": 222,
+        "levelReq": 221,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:222"
+    },
+    "level223": {
+        "uid": "level223",
+        "family": "level",
+        "index": 0,
+        "level": 223,
+        "levelReq": 222,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:223"
+    },
+    "level224": {
+        "uid": "level224",
+        "family": "level",
+        "index": 0,
+        "level": 224,
+        "levelReq": 223,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:224"
+    },
+    "level225": {
+        "uid": "level225",
+        "family": "level",
+        "index": 0,
+        "level": 225,
+        "levelReq": 224,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:225"
+    },
+    "level226": {
+        "uid": "level226",
+        "family": "level",
+        "index": 0,
+        "level": 226,
+        "levelReq": 225,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:226"
+    },
+    "level227": {
+        "uid": "level227",
+        "family": "level",
+        "index": 0,
+        "level": 227,
+        "levelReq": 226,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:227"
+    },
+    "level228": {
+        "uid": "level228",
+        "family": "level",
+        "index": 0,
+        "level": 228,
+        "levelReq": 227,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:228"
+    },
+    "level229": {
+        "uid": "level229",
+        "family": "level",
+        "index": 0,
+        "level": 229,
+        "levelReq": 228,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:229"
+    },
+    "level230": {
+        "uid": "level230",
+        "family": "level",
+        "index": 0,
+        "level": 230,
+        "levelReq": 229,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:230"
+    },
+    "level231": {
+        "uid": "level231",
+        "family": "level",
+        "index": 0,
+        "level": 231,
+        "levelReq": 230,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:231"
+    },
+    "level232": {
+        "uid": "level232",
+        "family": "level",
+        "index": 0,
+        "level": 232,
+        "levelReq": 231,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:232"
+    },
+    "level233": {
+        "uid": "level233",
+        "family": "level",
+        "index": 0,
+        "level": 233,
+        "levelReq": 232,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:233"
+    },
+    "level234": {
+        "uid": "level234",
+        "family": "level",
+        "index": 0,
+        "level": 234,
+        "levelReq": 233,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:234"
+    },
+    "level235": {
+        "uid": "level235",
+        "family": "level",
+        "index": 0,
+        "level": 235,
+        "levelReq": 234,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:235"
+    },
+    "level236": {
+        "uid": "level236",
+        "family": "level",
+        "index": 0,
+        "level": 236,
+        "levelReq": 235,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:236"
+    },
+    "level237": {
+        "uid": "level237",
+        "family": "level",
+        "index": 0,
+        "level": 237,
+        "levelReq": 236,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:237"
+    },
+    "level238": {
+        "uid": "level238",
+        "family": "level",
+        "index": 0,
+        "level": 238,
+        "levelReq": 237,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:238"
+    },
+    "level239": {
+        "uid": "level239",
+        "family": "level",
+        "index": 0,
+        "level": 239,
+        "levelReq": 238,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:239"
+    },
+    "level240": {
+        "uid": "level240",
+        "family": "level",
+        "index": 0,
+        "level": 240,
+        "levelReq": 239,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:240"
+    },
+    "level241": {
+        "uid": "level241",
+        "family": "level",
+        "index": 0,
+        "level": 241,
+        "levelReq": 240,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:241"
+    },
+    "level242": {
+        "uid": "level242",
+        "family": "level",
+        "index": 0,
+        "level": 242,
+        "levelReq": 241,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:242"
+    },
+    "level243": {
+        "uid": "level243",
+        "family": "level",
+        "index": 0,
+        "level": 243,
+        "levelReq": 242,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:243"
+    },
+    "level244": {
+        "uid": "level244",
+        "family": "level",
+        "index": 0,
+        "level": 244,
+        "levelReq": 243,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:244"
+    },
+    "level245": {
+        "uid": "level245",
+        "family": "level",
+        "index": 0,
+        "level": 245,
+        "levelReq": 244,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:245"
+    },
+    "level246": {
+        "uid": "level246",
+        "family": "level",
+        "index": 0,
+        "level": 246,
+        "levelReq": 245,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:246"
+    },
+    "level247": {
+        "uid": "level247",
+        "family": "level",
+        "index": 0,
+        "level": 247,
+        "levelReq": 246,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:247"
+    },
+    "level248": {
+        "uid": "level248",
+        "family": "level",
+        "index": 0,
+        "level": 248,
+        "levelReq": 247,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:248"
+    },
+    "level249": {
+        "uid": "level249",
+        "family": "level",
+        "index": 0,
+        "level": 249,
+        "levelReq": 248,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:249"
+    },
+    "level250": {
+        "uid": "level250",
+        "family": "level",
+        "index": 0,
+        "level": 250,
+        "levelReq": 249,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:250"
+    },
+    "level251": {
+        "uid": "level251",
+        "family": "level",
+        "index": 0,
+        "level": 251,
+        "levelReq": 250,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:251"
+    },
+    "level252": {
+        "uid": "level252",
+        "family": "level",
+        "index": 0,
+        "level": 252,
+        "levelReq": 251,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:252"
+    },
+    "level253": {
+        "uid": "level253",
+        "family": "level",
+        "index": 0,
+        "level": 253,
+        "levelReq": 252,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:253"
+    },
+    "level254": {
+        "uid": "level254",
+        "family": "level",
+        "index": 0,
+        "level": 254,
+        "levelReq": 253,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:254"
+    },
+    "level255": {
+        "uid": "level255",
+        "family": "level",
+        "index": 0,
+        "level": 255,
+        "levelReq": 254,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:255"
+    },
+    "level256": {
+        "uid": "level256",
+        "family": "level",
+        "index": 0,
+        "level": 256,
+        "levelReq": 255,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:256"
+    },
+    "level257": {
+        "uid": "level257",
+        "family": "level",
+        "index": 0,
+        "level": 257,
+        "levelReq": 256,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:257"
+    },
+    "level258": {
+        "uid": "level258",
+        "family": "level",
+        "index": 0,
+        "level": 258,
+        "levelReq": 257,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:258"
+    },
+    "level259": {
+        "uid": "level259",
+        "family": "level",
+        "index": 0,
+        "level": 259,
+        "levelReq": 258,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:259"
+    },
+    "level260": {
+        "uid": "level260",
+        "family": "level",
+        "index": 0,
+        "level": 260,
+        "levelReq": 259,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:260"
+    },
+    "level261": {
+        "uid": "level261",
+        "family": "level",
+        "index": 0,
+        "level": 261,
+        "levelReq": 260,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:261"
+    },
+    "level262": {
+        "uid": "level262",
+        "family": "level",
+        "index": 0,
+        "level": 262,
+        "levelReq": 261,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:262"
+    },
+    "level263": {
+        "uid": "level263",
+        "family": "level",
+        "index": 0,
+        "level": 263,
+        "levelReq": 262,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:263"
+    },
+    "level264": {
+        "uid": "level264",
+        "family": "level",
+        "index": 0,
+        "level": 264,
+        "levelReq": 263,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:264"
+    },
+    "level265": {
+        "uid": "level265",
+        "family": "level",
+        "index": 0,
+        "level": 265,
+        "levelReq": 264,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:265"
+    },
+    "level266": {
+        "uid": "level266",
+        "family": "level",
+        "index": 0,
+        "level": 266,
+        "levelReq": 265,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:266"
+    },
+    "level267": {
+        "uid": "level267",
+        "family": "level",
+        "index": 0,
+        "level": 267,
+        "levelReq": 266,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:267"
+    },
+    "level268": {
+        "uid": "level268",
+        "family": "level",
+        "index": 0,
+        "level": 268,
+        "levelReq": 267,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:268"
+    },
+    "level269": {
+        "uid": "level269",
+        "family": "level",
+        "index": 0,
+        "level": 269,
+        "levelReq": 268,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:269"
+    },
+    "level270": {
+        "uid": "level270",
+        "family": "level",
+        "index": 0,
+        "level": 270,
+        "levelReq": 269,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:270"
+    },
+    "level271": {
+        "uid": "level271",
+        "family": "level",
+        "index": 0,
+        "level": 271,
+        "levelReq": 270,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:271"
+    },
+    "level272": {
+        "uid": "level272",
+        "family": "level",
+        "index": 0,
+        "level": 272,
+        "levelReq": 271,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:272"
+    },
+    "level273": {
+        "uid": "level273",
+        "family": "level",
+        "index": 0,
+        "level": 273,
+        "levelReq": 272,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:273"
+    },
+    "level274": {
+        "uid": "level274",
+        "family": "level",
+        "index": 0,
+        "level": 274,
+        "levelReq": 273,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:274"
+    },
+    "level275": {
+        "uid": "level275",
+        "family": "level",
+        "index": 0,
+        "level": 275,
+        "levelReq": 274,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:275"
+    },
+    "level276": {
+        "uid": "level276",
+        "family": "level",
+        "index": 0,
+        "level": 276,
+        "levelReq": 275,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:276"
+    },
+    "level277": {
+        "uid": "level277",
+        "family": "level",
+        "index": 0,
+        "level": 277,
+        "levelReq": 276,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:277"
+    },
+    "level278": {
+        "uid": "level278",
+        "family": "level",
+        "index": 0,
+        "level": 278,
+        "levelReq": 277,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:278"
+    },
+    "level279": {
+        "uid": "level279",
+        "family": "level",
+        "index": 0,
+        "level": 279,
+        "levelReq": 278,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:279"
+    },
+    "level280": {
+        "uid": "level280",
+        "family": "level",
+        "index": 0,
+        "level": 280,
+        "levelReq": 279,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:280"
+    },
+    "level281": {
+        "uid": "level281",
+        "family": "level",
+        "index": 0,
+        "level": 281,
+        "levelReq": 280,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:281"
+    },
+    "level282": {
+        "uid": "level282",
+        "family": "level",
+        "index": 0,
+        "level": 282,
+        "levelReq": 281,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:282"
+    },
+    "level283": {
+        "uid": "level283",
+        "family": "level",
+        "index": 0,
+        "level": 283,
+        "levelReq": 282,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:283"
+    },
+    "level284": {
+        "uid": "level284",
+        "family": "level",
+        "index": 0,
+        "level": 284,
+        "levelReq": 283,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:284"
+    },
+    "level285": {
+        "uid": "level285",
+        "family": "level",
+        "index": 0,
+        "level": 285,
+        "levelReq": 284,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:285"
+    },
+    "level286": {
+        "uid": "level286",
+        "family": "level",
+        "index": 0,
+        "level": 286,
+        "levelReq": 285,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:286"
+    },
+    "level287": {
+        "uid": "level287",
+        "family": "level",
+        "index": 0,
+        "level": 287,
+        "levelReq": 286,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:287"
+    },
+    "level288": {
+        "uid": "level288",
+        "family": "level",
+        "index": 0,
+        "level": 288,
+        "levelReq": 287,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:288"
+    },
+    "level289": {
+        "uid": "level289",
+        "family": "level",
+        "index": 0,
+        "level": 289,
+        "levelReq": 288,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:289"
+    },
+    "level290": {
+        "uid": "level290",
+        "family": "level",
+        "index": 0,
+        "level": 290,
+        "levelReq": 289,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:290"
+    },
+    "level291": {
+        "uid": "level291",
+        "family": "level",
+        "index": 0,
+        "level": 291,
+        "levelReq": 290,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:291"
+    },
+    "level292": {
+        "uid": "level292",
+        "family": "level",
+        "index": 0,
+        "level": 292,
+        "levelReq": 291,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:292"
+    },
+    "level293": {
+        "uid": "level293",
+        "family": "level",
+        "index": 0,
+        "level": 293,
+        "levelReq": 292,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:293"
+    },
+    "level294": {
+        "uid": "level294",
+        "family": "level",
+        "index": 0,
+        "level": 294,
+        "levelReq": 293,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:294"
+    },
+    "level295": {
+        "uid": "level295",
+        "family": "level",
+        "index": 0,
+        "level": 295,
+        "levelReq": 294,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:295"
+    },
+    "level296": {
+        "uid": "level296",
+        "family": "level",
+        "index": 0,
+        "level": 296,
+        "levelReq": 295,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:296"
+    },
+    "level297": {
+        "uid": "level297",
+        "family": "level",
+        "index": 0,
+        "level": 297,
+        "levelReq": 296,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:297"
+    },
+    "level298": {
+        "uid": "level298",
+        "family": "level",
+        "index": 0,
+        "level": 298,
+        "levelReq": 297,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:298"
+    },
+    "level299": {
+        "uid": "level299",
+        "family": "level",
+        "index": 0,
+        "level": 299,
+        "levelReq": 298,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:299"
+    },
+    "level300": {
+        "uid": "level300",
+        "family": "level",
+        "index": 0,
+        "level": 300,
+        "levelReq": 299,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "level:300"
+    },
+    "bountyboard01": {
+        "uid": "bountyboard01",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "unlock:2"
+    },
+    "bountyboard02": {
+        "uid": "bountyboard02",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 2,
+        "levelReq": 6,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "unlock:4"
+    },
+    "bountyboard03": {
+        "uid": "bountyboard03",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 3,
+        "levelReq": 14,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "unlock:6"
+    },
+    "bountyboard04": {
+        "uid": "bountyboard04",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 4,
+        "levelReq": 20,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "unlock:8"
+    },
+    "bountyboard05": {
+        "uid": "bountyboard05",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 5,
+        "levelReq": 25,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "unlock:10"
+    },
+    "bountyboard06": {
+        "uid": "bountyboard06",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 6,
+        "levelReq": 30,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "unlock:12"
+    },
+    "bountyboard07": {
+        "uid": "bountyboard07",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 7,
+        "levelReq": 40,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "unlock:14"
+    },
+    "bountyboard08": {
+        "uid": "bountyboard08",
+        "family": "bountyboard",
+        "index": 1,
+        "level": 8,
+        "levelReq": 51,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "unlock:16"
+    },
+    "guildchoice01": {
+        "uid": "guildchoice01",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 1,
+        "levelReq": 3,
+        "cost": 10,
+        "isBoost": false,
+        "effect": "cooldown:3600"
+    },
+    "guildchoice02": {
+        "uid": "guildchoice02",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 2,
+        "levelReq": 8,
+        "cost": 20,
+        "isBoost": false,
+        "effect": "cooldown:7200"
+    },
+    "guildchoice03": {
+        "uid": "guildchoice03",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 3,
+        "levelReq": 14,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "cooldown:10800"
+    },
+    "guildchoice04": {
+        "uid": "guildchoice04",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 4,
+        "levelReq": 18,
+        "cost": 75,
+        "isBoost": false,
+        "effect": "cooldown:14400"
+    },
+    "guildchoice05": {
+        "uid": "guildchoice05",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 5,
+        "levelReq": 22,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "cooldown:18000"
+    },
+    "guildchoice06": {
+        "uid": "guildchoice06",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 6,
+        "levelReq": 27,
+        "cost": 125,
+        "isBoost": false,
+        "effect": "cooldown:21600"
+    },
+    "guildchoice07": {
+        "uid": "guildchoice07",
+        "family": "guildchoice",
+        "index": 2,
+        "level": 7,
+        "levelReq": 32,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "cooldown:25200"
+    },
+    "commonres01": {
+        "uid": "commonres01",
+        "family": "commonres",
+        "index": 3,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "commonres02": {
+        "uid": "commonres02",
+        "family": "commonres",
+        "index": 3,
+        "level": 2,
+        "levelReq": 7,
+        "cost": 25,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "commonres03": {
+        "uid": "commonres03",
+        "family": "commonres",
+        "index": 3,
+        "level": 3,
+        "levelReq": 15,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "capacity:9"
+    },
+    "commonres04": {
+        "uid": "commonres04",
+        "family": "commonres",
+        "index": 3,
+        "level": 4,
+        "levelReq": 24,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "commonres05": {
+        "uid": "commonres05",
+        "family": "commonres",
+        "index": 3,
+        "level": 5,
+        "levelReq": 35,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "capacity:15"
+    },
+    "commonres06": {
+        "uid": "commonres06",
+        "family": "commonres",
+        "index": 3,
+        "level": 6,
+        "levelReq": 46,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "capacity:18"
+    },
+    "commonres07": {
+        "uid": "commonres07",
+        "family": "commonres",
+        "index": 3,
+        "level": 7,
+        "levelReq": 57,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "capacity:21"
+    },
+    "commonres08": {
+        "uid": "commonres08",
+        "family": "commonres",
+        "index": 3,
+        "level": 8,
+        "levelReq": 68,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "capacity:24"
+    },
+    "uncommonres01": {
+        "uid": "uncommonres01",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 1,
+        "levelReq": 10,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "capacity:1"
+    },
+    "uncommonres02": {
+        "uid": "uncommonres02",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 2,
+        "levelReq": 17,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "uncommonres03": {
+        "uid": "uncommonres03",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 3,
+        "levelReq": 25,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "capacity:4"
+    },
+    "uncommonres04": {
+        "uid": "uncommonres04",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 4,
+        "levelReq": 36,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "uncommonres05": {
+        "uid": "uncommonres05",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 5,
+        "levelReq": 45,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "capacity:7"
+    },
+    "uncommonres06": {
+        "uid": "uncommonres06",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 6,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "capacity:9"
+    },
+    "uncommonres07": {
+        "uid": "uncommonres07",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 7,
+        "levelReq": 65,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:10"
+    },
+    "uncommonres08": {
+        "uid": "uncommonres08",
+        "family": "uncommonres",
+        "index": 4,
+        "level": 8,
+        "levelReq": 75,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "rareres01": {
+        "uid": "rareres01",
+        "family": "rareres",
+        "index": 5,
+        "level": 1,
+        "levelReq": 20,
+        "cost": 50,
+        "isBoost": false,
+        "effect": "capacity:1"
+    },
+    "rareres02": {
+        "uid": "rareres02",
+        "family": "rareres",
+        "index": 5,
+        "level": 2,
+        "levelReq": 27,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "capacity:2"
+    },
+    "rareres03": {
+        "uid": "rareres03",
+        "family": "rareres",
+        "index": 5,
+        "level": 3,
+        "levelReq": 37,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "rareres04": {
+        "uid": "rareres04",
+        "family": "rareres",
+        "index": 5,
+        "level": 4,
+        "levelReq": 47,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "capacity:4"
+    },
+    "rareres05": {
+        "uid": "rareres05",
+        "family": "rareres",
+        "index": 5,
+        "level": 5,
+        "levelReq": 57,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "capacity:5"
+    },
+    "rareres06": {
+        "uid": "rareres06",
+        "family": "rareres",
+        "index": 5,
+        "level": 6,
+        "levelReq": 67,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "rareres07": {
+        "uid": "rareres07",
+        "family": "rareres",
+        "index": 5,
+        "level": 7,
+        "levelReq": 77,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:7"
+    },
+    "rareres08": {
+        "uid": "rareres08",
+        "family": "rareres",
+        "index": 5,
+        "level": 8,
+        "levelReq": 87,
+        "cost": 750,
+        "isBoost": false,
+        "effect": "capacity:8"
+    },
+    "essres01": {
+        "uid": "essres01",
+        "family": "essres",
+        "index": 5,
+        "level": 1,
+        "levelReq": 100,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:1"
+    },
+    "essres02": {
+        "uid": "essres02",
+        "family": "essres",
+        "index": 5,
+        "level": 2,
+        "levelReq": 125,
+        "cost": 750,
+        "isBoost": false,
+        "effect": "capacity:2"
+    },
+    "essres03": {
+        "uid": "essres03",
+        "family": "essres",
+        "index": 5,
+        "level": 3,
+        "levelReq": 150,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "essres04": {
+        "uid": "essres04",
+        "family": "essres",
+        "index": 5,
+        "level": 4,
+        "levelReq": 175,
+        "cost": 1250,
+        "isBoost": false,
+        "effect": "capacity:4"
+    },
+    "weaponrack01": {
+        "uid": "weaponrack01",
+        "family": "vertrack",
+        "index": 6,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "energy:2"
+    },
+    "weaponrack02": {
+        "uid": "weaponrack02",
+        "family": "vertrack",
+        "index": 6,
+        "level": 2,
+        "levelReq": 8,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "energy:4"
+    },
+    "weaponrack03": {
+        "uid": "weaponrack03",
+        "family": "vertrack",
+        "index": 6,
+        "level": 3,
+        "levelReq": 16,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "energy:6"
+    },
+    "weaponrack04": {
+        "uid": "weaponrack04",
+        "family": "vertrack",
+        "index": 6,
+        "level": 4,
+        "levelReq": 26,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "energy:8"
+    },
+    "weaponrack05": {
+        "uid": "weaponrack05",
+        "family": "vertrack",
+        "index": 6,
+        "level": 5,
+        "levelReq": 42,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "energy:10"
+    },
+    "weaponrack06": {
+        "uid": "weaponrack06",
+        "family": "vertrack",
+        "index": 6,
+        "level": 6,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "energy:12"
+    },
+    "weaponrack07": {
+        "uid": "weaponrack07",
+        "family": "vertrack",
+        "index": 6,
+        "level": 7,
+        "levelReq": 67,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "energy:14"
+    },
+    "armorrack01": {
+        "uid": "armorrack01",
+        "family": "mannequin",
+        "index": 7,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "energy:2"
+    },
+    "armorrack02": {
+        "uid": "armorrack02",
+        "family": "mannequin",
+        "index": 7,
+        "level": 2,
+        "levelReq": 8,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "energy:4"
+    },
+    "armorrack03": {
+        "uid": "armorrack03",
+        "family": "mannequin",
+        "index": 7,
+        "level": 3,
+        "levelReq": 16,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "energy:6"
+    },
+    "armorrack04": {
+        "uid": "armorrack04",
+        "family": "mannequin",
+        "index": 7,
+        "level": 4,
+        "levelReq": 26,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "energy:8"
+    },
+    "armorrack05": {
+        "uid": "armorrack05",
+        "family": "mannequin",
+        "index": 7,
+        "level": 5,
+        "levelReq": 42,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "energy:10"
+    },
+    "armorrack06": {
+        "uid": "armorrack06",
+        "family": "mannequin",
+        "index": 7,
+        "level": 6,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "energy:12"
+    },
+    "armorrack07": {
+        "uid": "armorrack07",
+        "family": "mannequin",
+        "index": 7,
+        "level": 7,
+        "levelReq": 67,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "energy:14"
+    },
+    "table01": {
+        "uid": "table01",
+        "family": "table",
+        "index": 8,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "energy:2"
+    },
+    "table02": {
+        "uid": "table02",
+        "family": "table",
+        "index": 8,
+        "level": 2,
+        "levelReq": 8,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "energy:4"
+    },
+    "table03": {
+        "uid": "table03",
+        "family": "table",
+        "index": 8,
+        "level": 3,
+        "levelReq": 16,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "energy:6"
+    },
+    "table04": {
+        "uid": "table04",
+        "family": "table",
+        "index": 8,
+        "level": 4,
+        "levelReq": 26,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "energy:8"
+    },
+    "table05": {
+        "uid": "table05",
+        "family": "table",
+        "index": 8,
+        "level": 5,
+        "levelReq": 42,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "energy:10"
+    },
+    "table06": {
+        "uid": "table06",
+        "family": "table",
+        "index": 8,
+        "level": 6,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "energy:12"
+    },
+    "table07": {
+        "uid": "table07",
+        "family": "table",
+        "index": 8,
+        "level": 7,
+        "levelReq": 67,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "energy:14"
+    },
+    "shelf01": {
+        "uid": "shelf01",
+        "family": "shelves",
+        "index": 9,
+        "level": 1,
+        "levelReq": 2,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "energy:2"
+    },
+    "shelf02": {
+        "uid": "shelf02",
+        "family": "shelves",
+        "index": 9,
+        "level": 2,
+        "levelReq": 8,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "energy:4"
+    },
+    "shelf03": {
+        "uid": "shelf03",
+        "family": "shelves",
+        "index": 9,
+        "level": 3,
+        "levelReq": 16,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "energy:6"
+    },
+    "shelf04": {
+        "uid": "shelf04",
+        "family": "shelves",
+        "index": 9,
+        "level": 4,
+        "levelReq": 26,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "energy:8"
+    },
+    "shelf05": {
+        "uid": "shelf05",
+        "family": "shelves",
+        "index": 9,
+        "level": 5,
+        "levelReq": 42,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "energy:10"
+    },
+    "shelf06": {
+        "uid": "shelf06",
+        "family": "shelves",
+        "index": 9,
+        "level": 6,
+        "levelReq": 55,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "energy:12"
+    },
+    "shelf07": {
+        "uid": "shelf07",
+        "family": "shelves",
+        "index": 9,
+        "level": 7,
+        "levelReq": 67,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "energy:14"
+    },
+    "storage01": {
+        "uid": "storage01",
+        "family": "storage",
+        "index": 10,
+        "level": 1,
+        "levelReq": 4,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "capacity:2"
+    },
+    "storage02": {
+        "uid": "storage02",
+        "family": "storage",
+        "index": 10,
+        "level": 2,
+        "levelReq": 9,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "capacity:4"
+    },
+    "storage03": {
+        "uid": "storage03",
+        "family": "storage",
+        "index": 10,
+        "level": 3,
+        "levelReq": 18,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "storage04": {
+        "uid": "storage04",
+        "family": "storage",
+        "index": 10,
+        "level": 4,
+        "levelReq": 28,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "capacity:8"
+    },
+    "storage05": {
+        "uid": "storage05",
+        "family": "storage",
+        "index": 10,
+        "level": 5,
+        "levelReq": 44,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "capacity:10"
+    },
+    "storage06": {
+        "uid": "storage06",
+        "family": "storage",
+        "index": 10,
+        "level": 6,
+        "levelReq": 57,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "storage07": {
+        "uid": "storage07",
+        "family": "storage",
+        "index": 10,
+        "level": 7,
+        "levelReq": 68,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:14"
+    },
+    "stacksize01": {
+        "uid": "stacksize01",
+        "family": "stacksize",
+        "index": 11,
+        "level": 1,
+        "levelReq": 4,
+        "cost": 15,
+        "isBoost": false,
+        "effect": "capacity:2"
+    },
+    "stacksize02": {
+        "uid": "stacksize02",
+        "family": "stacksize",
+        "index": 11,
+        "level": 2,
+        "levelReq": 10,
+        "cost": 30,
+        "isBoost": false,
+        "effect": "capacity:4"
+    },
+    "stacksize03": {
+        "uid": "stacksize03",
+        "family": "stacksize",
+        "index": 11,
+        "level": 3,
+        "levelReq": 19,
+        "cost": 100,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "stacksize04": {
+        "uid": "stacksize04",
+        "family": "stacksize",
+        "index": 11,
+        "level": 4,
+        "levelReq": 29,
+        "cost": 150,
+        "isBoost": false,
+        "effect": "capacity:8"
+    },
+    "stacksize05": {
+        "uid": "stacksize05",
+        "family": "stacksize",
+        "index": 11,
+        "level": 5,
+        "levelReq": 43,
+        "cost": 200,
+        "isBoost": false,
+        "effect": "capacity:10"
+    },
+    "stacksize06": {
+        "uid": "stacksize06",
+        "family": "stacksize",
+        "index": 11,
+        "level": 6,
+        "levelReq": 58,
+        "cost": 250,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "stacksize07": {
+        "uid": "stacksize07",
+        "family": "stacksize",
+        "index": 11,
+        "level": 7,
+        "levelReq": 69,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:14"
+    },
+    "craftboost01": {
+        "uid": "craftboost01",
+        "family": "craftboost",
+        "index": 12,
+        "level": 1,
+        "levelReq": 6,
+        "cost": 20,
+        "isBoost": true,
+        "effect": "duration:7200"
+    },
+    "craftboost02": {
+        "uid": "craftboost02",
+        "family": "craftboost",
+        "index": 12,
+        "level": 2,
+        "levelReq": 13,
+        "cost": 40,
+        "isBoost": true,
+        "effect": "unlock:2"
+    },
+    "craftboost03": {
+        "uid": "craftboost03",
+        "family": "craftboost",
+        "index": 12,
+        "level": 3,
+        "levelReq": 21,
+        "cost": 75,
+        "isBoost": true,
+        "effect": "duration:14400"
+    },
+    "craftboost04": {
+        "uid": "craftboost04",
+        "family": "craftboost",
+        "index": 12,
+        "level": 4,
+        "levelReq": 27,
+        "cost": 100,
+        "isBoost": true,
+        "effect": "unlock:3"
+    },
+    "craftboost05": {
+        "uid": "craftboost05",
+        "family": "craftboost",
+        "index": 12,
+        "level": 5,
+        "levelReq": 34,
+        "cost": 150,
+        "isBoost": true,
+        "effect": "duration:21600"
+    },
+    "craftboost06": {
+        "uid": "craftboost06",
+        "family": "craftboost",
+        "index": 12,
+        "level": 6,
+        "levelReq": 48,
+        "cost": 250,
+        "isBoost": true,
+        "effect": "duration:28800"
+    },
+    "craftboost07": {
+        "uid": "craftboost07",
+        "family": "craftboost",
+        "index": 12,
+        "level": 7,
+        "levelReq": 55,
+        "cost": 300,
+        "isBoost": true,
+        "effect": "unlock:4"
+    },
+    "craftboost08": {
+        "uid": "craftboost08",
+        "family": "craftboost",
+        "index": 12,
+        "level": 8,
+        "levelReq": 62,
+        "cost": 350,
+        "isBoost": true,
+        "effect": "duration:36000"
+    },
+    "craftboost09": {
+        "uid": "craftboost09",
+        "family": "craftboost",
+        "index": 12,
+        "level": 9,
+        "levelReq": 69,
+        "cost": 400,
+        "isBoost": true,
+        "effect": "unlock:5"
+    },
+    "questboost01": {
+        "uid": "questboost01",
+        "family": "questboost",
+        "index": 13,
+        "level": 1,
+        "levelReq": 5,
+        "cost": 20,
+        "isBoost": true,
+        "effect": "duration:7200"
+    },
+    "questboost02": {
+        "uid": "questboost02",
+        "family": "questboost",
+        "index": 13,
+        "level": 2,
+        "levelReq": 12,
+        "cost": 40,
+        "isBoost": true,
+        "effect": "unlock:2"
+    },
+    "questboost03": {
+        "uid": "questboost03",
+        "family": "questboost",
+        "index": 13,
+        "level": 3,
+        "levelReq": 19,
+        "cost": 75,
+        "isBoost": true,
+        "effect": "duration:14400"
+    },
+    "questboost04": {
+        "uid": "questboost04",
+        "family": "questboost",
+        "index": 13,
+        "level": 4,
+        "levelReq": 26,
+        "cost": 100,
+        "isBoost": true,
+        "effect": "unlock:3"
+    },
+    "questboost05": {
+        "uid": "questboost05",
+        "family": "questboost",
+        "index": 13,
+        "level": 5,
+        "levelReq": 33,
+        "cost": 150,
+        "isBoost": true,
+        "effect": "duration:21600"
+    },
+    "questboost06": {
+        "uid": "questboost06",
+        "family": "questboost",
+        "index": 13,
+        "level": 6,
+        "levelReq": 47,
+        "cost": 250,
+        "isBoost": true,
+        "effect": "duration:28800"
+    },
+    "questboost07": {
+        "uid": "questboost07",
+        "family": "questboost",
+        "index": 13,
+        "level": 7,
+        "levelReq": 54,
+        "cost": 300,
+        "isBoost": true,
+        "effect": "unlock:4"
+    },
+    "questboost08": {
+        "uid": "questboost08",
+        "family": "questboost",
+        "index": 13,
+        "level": 8,
+        "levelReq": 61,
+        "cost": 350,
+        "isBoost": true,
+        "effect": "duration:36000"
+    },
+    "questboost09": {
+        "uid": "questboost09",
+        "family": "questboost",
+        "index": 13,
+        "level": 9,
+        "levelReq": 68,
+        "cost": 400,
+        "isBoost": true,
+        "effect": "unlock:5"
+    },
+    "xpboost01": {
+        "uid": "xpboost01",
+        "family": "xpboost",
+        "index": 14,
+        "level": 1,
+        "levelReq": 4,
+        "cost": 20,
+        "isBoost": true,
+        "effect": "duration:7200"
+    },
+    "xpboost02": {
+        "uid": "xpboost02",
+        "family": "xpboost",
+        "index": 14,
+        "level": 2,
+        "levelReq": 11,
+        "cost": 40,
+        "isBoost": true,
+        "effect": "unlock:2"
+    },
+    "xpboost03": {
+        "uid": "xpboost03",
+        "family": "xpboost",
+        "index": 14,
+        "level": 3,
+        "levelReq": 18,
+        "cost": 75,
+        "isBoost": true,
+        "effect": "duration:14400"
+    },
+    "xpboost04": {
+        "uid": "xpboost04",
+        "family": "xpboost",
+        "index": 14,
+        "level": 4,
+        "levelReq": 25,
+        "cost": 100,
+        "isBoost": true,
+        "effect": "unlock:3"
+    },
+    "xpboost05": {
+        "uid": "xpboost05",
+        "family": "xpboost",
+        "index": 14,
+        "level": 5,
+        "levelReq": 32,
+        "cost": 150,
+        "isBoost": true,
+        "effect": "duration:21600"
+    },
+    "xpboost06": {
+        "uid": "xpboost06",
+        "family": "xpboost",
+        "index": 14,
+        "level": 6,
+        "levelReq": 46,
+        "cost": 250,
+        "isBoost": true,
+        "effect": "duration:28800"
+    },
+    "xpboost07": {
+        "uid": "xpboost07",
+        "family": "xpboost",
+        "index": 14,
+        "level": 7,
+        "levelReq": 53,
+        "cost": 300,
+        "isBoost": true,
+        "effect": "unlock:4"
+    },
+    "xpboost08": {
+        "uid": "xpboost08",
+        "family": "xpboost",
+        "index": 14,
+        "level": 8,
+        "levelReq": 60,
+        "cost": 350,
+        "isBoost": true,
+        "effect": "duration:36000"
+    },
+    "xpboost09": {
+        "uid": "xpboost09",
+        "family": "xpboost",
+        "index": 14,
+        "level": 9,
+        "levelReq": 67,
+        "cost": 400,
+        "isBoost": true,
+        "effect": "unlock:5"
+    },
+    "resboost01": {
+        "uid": "resboost01",
+        "family": "resboost",
+        "index": 15,
+        "level": 1,
+        "levelReq": 3,
+        "cost": 20,
+        "isBoost": true,
+        "effect": "duration:7200"
+    },
+    "resboost02": {
+        "uid": "resboost02",
+        "family": "resboost",
+        "index": 15,
+        "level": 2,
+        "levelReq": 10,
+        "cost": 40,
+        "isBoost": true,
+        "effect": "unlock:2"
+    },
+    "resboost03": {
+        "uid": "resboost03",
+        "family": "resboost",
+        "index": 15,
+        "level": 3,
+        "levelReq": 17,
+        "cost": 75,
+        "isBoost": true,
+        "effect": "duration:14400"
+    },
+    "resboost04": {
+        "uid": "resboost04",
+        "family": "resboost",
+        "index": 15,
+        "level": 4,
+        "levelReq": 23,
+        "cost": 100,
+        "isBoost": true,
+        "effect": "unlock:3"
+    },
+    "resboost05": {
+        "uid": "resboost05",
+        "family": "resboost",
+        "index": 15,
+        "level": 5,
+        "levelReq": 31,
+        "cost": 150,
+        "isBoost": true,
+        "effect": "duration:21600"
+    },
+    "resboost06": {
+        "uid": "resboost06",
+        "family": "resboost",
+        "index": 15,
+        "level": 6,
+        "levelReq": 45,
+        "cost": 250,
+        "isBoost": true,
+        "effect": "duration:28800"
+    },
+    "resboost07": {
+        "uid": "resboost07",
+        "family": "resboost",
+        "index": 15,
+        "level": 7,
+        "levelReq": 52,
+        "cost": 300,
+        "isBoost": true,
+        "effect": "unlock:4"
+    },
+    "resboost08": {
+        "uid": "resboost08",
+        "family": "resboost",
+        "index": 15,
+        "level": 8,
+        "levelReq": 59,
+        "cost": 350,
+        "isBoost": true,
+        "effect": "duration:36000"
+    },
+    "resboost09": {
+        "uid": "resboost09",
+        "family": "resboost",
+        "index": 15,
+        "level": 9,
+        "levelReq": 66,
+        "cost": 400,
+        "isBoost": true,
+        "effect": "unlock:5"
+    },
+    "tradeofferstack01": {
+        "uid": "tradeofferstack01",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 1,
+        "levelReq": 50,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "tradeofferstack02": {
+        "uid": "tradeofferstack02",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 2,
+        "levelReq": 60,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "tradeofferstack03": {
+        "uid": "tradeofferstack03",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 3,
+        "levelReq": 70,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:9"
+    },
+    "tradeofferstack04": {
+        "uid": "tradeofferstack04",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 4,
+        "levelReq": 80,
+        "cost": 600,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "tradeofferstack05": {
+        "uid": "tradeofferstack05",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 5,
+        "levelReq": 90,
+        "cost": 700,
+        "isBoost": false,
+        "effect": "capacity:15"
+    },
+    "tradeofferstack06": {
+        "uid": "tradeofferstack06",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 6,
+        "levelReq": 100,
+        "cost": 800,
+        "isBoost": false,
+        "effect": "capacity:18"
+    },
+    "tradeofferstack07": {
+        "uid": "tradeofferstack07",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 7,
+        "levelReq": 110,
+        "cost": 900,
+        "isBoost": false,
+        "effect": "capacity:21"
+    },
+    "tradeofferstack08": {
+        "uid": "tradeofferstack08",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 8,
+        "levelReq": 120,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "capacity:24"
+    },
+    "tradeofferstack09": {
+        "uid": "tradeofferstack09",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 9,
+        "levelReq": 130,
+        "cost": 1250,
+        "isBoost": false,
+        "effect": "capacity:27"
+    },
+    "tradeofferstack10": {
+        "uid": "tradeofferstack10",
+        "family": "tradeofferstack",
+        "index": 16,
+        "level": 10,
+        "levelReq": 140,
+        "cost": 1500,
+        "isBoost": false,
+        "effect": "capacity:30"
+    },
+    "traderequeststack01": {
+        "uid": "traderequeststack01",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 1,
+        "levelReq": 50,
+        "cost": 300,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "traderequeststack02": {
+        "uid": "traderequeststack02",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 2,
+        "levelReq": 60,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "capacity:6"
+    },
+    "traderequeststack03": {
+        "uid": "traderequeststack03",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 3,
+        "levelReq": 70,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:9"
+    },
+    "traderequeststack04": {
+        "uid": "traderequeststack04",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 4,
+        "levelReq": 80,
+        "cost": 600,
+        "isBoost": false,
+        "effect": "capacity:12"
+    },
+    "traderequeststack05": {
+        "uid": "traderequeststack05",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 5,
+        "levelReq": 90,
+        "cost": 700,
+        "isBoost": false,
+        "effect": "capacity:15"
+    },
+    "traderequeststack06": {
+        "uid": "traderequeststack06",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 6,
+        "levelReq": 100,
+        "cost": 800,
+        "isBoost": false,
+        "effect": "capacity:18"
+    },
+    "traderequeststack07": {
+        "uid": "traderequeststack07",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 7,
+        "levelReq": 110,
+        "cost": 900,
+        "isBoost": false,
+        "effect": "capacity:21"
+    },
+    "traderequeststack08": {
+        "uid": "traderequeststack08",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 8,
+        "levelReq": 120,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "capacity:24"
+    },
+    "traderequeststack09": {
+        "uid": "traderequeststack09",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 9,
+        "levelReq": 130,
+        "cost": 1250,
+        "isBoost": false,
+        "effect": "capacity:27"
+    },
+    "traderequeststack10": {
+        "uid": "traderequeststack10",
+        "family": "traderequeststack",
+        "index": 17,
+        "level": 10,
+        "levelReq": 140,
+        "cost": 1500,
+        "isBoost": false,
+        "effect": "capacity:30"
+    },
+    "commonresregen01": {
+        "uid": "commonresregen01",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 1,
+        "levelReq": 55,
+        "cost": 400,
+        "isBoost": false,
+        "effect": "multi:1.02"
+    },
+    "commonresregen02": {
+        "uid": "commonresregen02",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 2,
+        "levelReq": 67,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "multi:1.04"
+    },
+    "commonresregen03": {
+        "uid": "commonresregen03",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 3,
+        "levelReq": 79,
+        "cost": 600,
+        "isBoost": false,
+        "effect": "multi:1.06"
+    },
+    "commonresregen04": {
+        "uid": "commonresregen04",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 4,
+        "levelReq": 91,
+        "cost": 700,
+        "isBoost": false,
+        "effect": "multi:1.08"
+    },
+    "commonresregen05": {
+        "uid": "commonresregen05",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 5,
+        "levelReq": 103,
+        "cost": 800,
+        "isBoost": false,
+        "effect": "multi:1.10"
+    },
+    "commonresregen06": {
+        "uid": "commonresregen06",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 6,
+        "levelReq": 115,
+        "cost": 900,
+        "isBoost": false,
+        "effect": "multi:1.12"
+    },
+    "commonresregen07": {
+        "uid": "commonresregen07",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 7,
+        "levelReq": 127,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "multi:1.14"
+    },
+    "commonresregen08": {
+        "uid": "commonresregen08",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 8,
+        "levelReq": 139,
+        "cost": 1100,
+        "isBoost": false,
+        "effect": "multi:1.16"
+    },
+    "commonresregen09": {
+        "uid": "commonresregen09",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 9,
+        "levelReq": 151,
+        "cost": 1200,
+        "isBoost": false,
+        "effect": "multi:1.18"
+    },
+    "commonresregen10": {
+        "uid": "commonresregen10",
+        "family": "commonresregen",
+        "index": 18,
+        "level": 10,
+        "levelReq": 163,
+        "cost": 1300,
+        "isBoost": false,
+        "effect": "multi:1.20"
+    },
+    "uncommonresregen01": {
+        "uid": "uncommonresregen01",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 1,
+        "levelReq": 56,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "multi:1.02"
+    },
+    "uncommonresregen02": {
+        "uid": "uncommonresregen02",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 2,
+        "levelReq": 68,
+        "cost": 600,
+        "isBoost": false,
+        "effect": "multi:1.04"
+    },
+    "uncommonresregen03": {
+        "uid": "uncommonresregen03",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 3,
+        "levelReq": 80,
+        "cost": 700,
+        "isBoost": false,
+        "effect": "multi:1.06"
+    },
+    "uncommonresregen04": {
+        "uid": "uncommonresregen04",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 4,
+        "levelReq": 92,
+        "cost": 800,
+        "isBoost": false,
+        "effect": "multi:1.08"
+    },
+    "uncommonresregen05": {
+        "uid": "uncommonresregen05",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 5,
+        "levelReq": 104,
+        "cost": 900,
+        "isBoost": false,
+        "effect": "multi:1.10"
+    },
+    "uncommonresregen06": {
+        "uid": "uncommonresregen06",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 6,
+        "levelReq": 116,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "multi:1.12"
+    },
+    "uncommonresregen07": {
+        "uid": "uncommonresregen07",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 7,
+        "levelReq": 128,
+        "cost": 1100,
+        "isBoost": false,
+        "effect": "multi:1.14"
+    },
+    "uncommonresregen08": {
+        "uid": "uncommonresregen08",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 8,
+        "levelReq": 140,
+        "cost": 1200,
+        "isBoost": false,
+        "effect": "multi:1.16"
+    },
+    "uncommonresregen09": {
+        "uid": "uncommonresregen09",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 9,
+        "levelReq": 152,
+        "cost": 1300,
+        "isBoost": false,
+        "effect": "multi:1.18"
+    },
+    "uncommonresregen10": {
+        "uid": "uncommonresregen10",
+        "family": "uncommonresregen",
+        "index": 19,
+        "level": 10,
+        "levelReq": 164,
+        "cost": 1400,
+        "isBoost": false,
+        "effect": "multi:1.20"
+    },
+    "rareresregen01": {
+        "uid": "rareresregen01",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 1,
+        "levelReq": 57,
+        "cost": 600,
+        "isBoost": false,
+        "effect": "multi:1.02"
+    },
+    "rareresregen02": {
+        "uid": "rareresregen02",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 2,
+        "levelReq": 69,
+        "cost": 700,
+        "isBoost": false,
+        "effect": "multi:1.04"
+    },
+    "rareresregen03": {
+        "uid": "rareresregen03",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 3,
+        "levelReq": 81,
+        "cost": 800,
+        "isBoost": false,
+        "effect": "multi:1.06"
+    },
+    "rareresregen04": {
+        "uid": "rareresregen04",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 4,
+        "levelReq": 93,
+        "cost": 900,
+        "isBoost": false,
+        "effect": "multi:1.08"
+    },
+    "rareresregen05": {
+        "uid": "rareresregen05",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 5,
+        "levelReq": 105,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "multi:1.10"
+    },
+    "rareresregen06": {
+        "uid": "rareresregen06",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 6,
+        "levelReq": 117,
+        "cost": 1100,
+        "isBoost": false,
+        "effect": "multi:1.12"
+    },
+    "rareresregen07": {
+        "uid": "rareresregen07",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 7,
+        "levelReq": 129,
+        "cost": 1200,
+        "isBoost": false,
+        "effect": "multi:1.14"
+    },
+    "rareresregen08": {
+        "uid": "rareresregen08",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 8,
+        "levelReq": 141,
+        "cost": 1300,
+        "isBoost": false,
+        "effect": "multi:1.16"
+    },
+    "rareresregen09": {
+        "uid": "rareresregen09",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 9,
+        "levelReq": 153,
+        "cost": 1400,
+        "isBoost": false,
+        "effect": "multi:1.18"
+    },
+    "rareresregen10": {
+        "uid": "rareresregen10",
+        "family": "rareresregen",
+        "index": 20,
+        "level": 10,
+        "levelReq": 165,
+        "cost": 1500,
+        "isBoost": false,
+        "effect": "multi:1.20"
+    },
+    "coinrefillres01": {
+        "uid": "coinrefillres01",
+        "family": "coinrefillres",
+        "index": 21,
+        "level": 1,
+        "levelReq": 75,
+        "cost": 500,
+        "isBoost": false,
+        "effect": "capacity:1"
+    },
+    "coinrefillres02": {
+        "uid": "coinrefillres02",
+        "family": "coinrefillres",
+        "index": 21,
+        "level": 2,
+        "levelReq": 100,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "capacity:2"
+    },
+    "coinrefillres03": {
+        "uid": "coinrefillres03",
+        "family": "coinrefillres",
+        "index": 21,
+        "level": 3,
+        "levelReq": 125,
+        "cost": 1500,
+        "isBoost": false,
+        "effect": "capacity:3"
+    },
+    "essresregen01": {
+        "uid": "essresregen01",
+        "family": "essresregen",
+        "index": 22,
+        "level": 1,
+        "levelReq": 110,
+        "cost": 1000,
+        "isBoost": false,
+        "effect": "multi:1.02"
+    },
+    "essresregen02": {
+        "uid": "essresregen02",
+        "family": "essresregen",
+        "index": 22,
+        "level": 2,
+        "levelReq": 120,
+        "cost": 1100,
+        "isBoost": false,
+        "effect": "multi:1.04"
+    },
+    "essresregen03": {
+        "uid": "essresregen03",
+        "family": "essresregen",
+        "index": 22,
+        "level": 3,
+        "levelReq": 130,
+        "cost": 1200,
+        "isBoost": false,
+        "effect": "multi:1.06"
+    },
+    "essresregen04": {
+        "uid": "essresregen04",
+        "family": "essresregen",
+        "index": 22,
+        "level": 4,
+        "levelReq": 140,
+        "cost": 1300,
+        "isBoost": false,
+        "effect": "multi:1.08"
+    },
+    "essresregen05": {
+        "uid": "essresregen05",
+        "family": "essresregen",
+        "index": 22,
+        "level": 5,
+        "levelReq": 150,
+        "cost": 1400,
+        "isBoost": false,
+        "effect": "multi:1.10"
+    },
+    "essresregen06": {
+        "uid": "essresregen06",
+        "family": "essresregen",
+        "index": 22,
+        "level": 6,
+        "levelReq": 160,
+        "cost": 1500,
+        "isBoost": false,
+        "effect": "multi:1.12"
+    },
+    "essresregen07": {
+        "uid": "essresregen07",
+        "family": "essresregen",
+        "index": 22,
+        "level": 7,
+        "levelReq": 170,
+        "cost": 1600,
+        "isBoost": false,
+        "effect": "multi:1.14"
+    },
+    "essresregen08": {
+        "uid": "essresregen08",
+        "family": "essresregen",
+        "index": 22,
+        "level": 8,
+        "levelReq": 180,
+        "cost": 1700,
+        "isBoost": false,
+        "effect": "multi:1.16"
+    },
+    "essresregen09": {
+        "uid": "essresregen09",
+        "family": "essresregen",
+        "index": 22,
+        "level": 9,
+        "levelReq": 190,
+        "cost": 1800,
+        "isBoost": false,
+        "effect": "multi:1.18"
+    },
+    "essresregen10": {
+        "uid": "essresregen10",
+        "family": "essresregen",
+        "index": 22,
+        "level": 10,
+        "levelReq": 200,
+        "cost": 1900,
+        "isBoost": false,
+        "effect": "multi:1.20"
+    }
+}

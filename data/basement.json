@@ -1,0 +1,218 @@
+{
+    "basement00": {
+        "uid": "basement00",
+        "level": 0,
+        "minLevel": 0,
+        "gold": 0,
+        "gems": 0,
+        "time": 0,
+        "speedupGemsCurve": "0"
+    },
+    "basement01": {
+        "uid": "basement01",
+        "level": 1,
+        "minLevel": 40,
+        "gold": 0,
+        "gems": 0,
+        "time": 0,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement02": {
+        "uid": "basement02",
+        "level": 2,
+        "minLevel": 40,
+        "gold": 15000000,
+        "gems": 250,
+        "time": 900,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement03": {
+        "uid": "basement03",
+        "level": 3,
+        "minLevel": 45,
+        "gold": 25000000,
+        "gems": 350,
+        "time": 28800,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement04": {
+        "uid": "basement04",
+        "level": 4,
+        "minLevel": 50,
+        "gold": 75000000,
+        "gems": 500,
+        "time": 57600,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement05": {
+        "uid": "basement05",
+        "level": 5,
+        "minLevel": 55,
+        "gold": 100000000,
+        "gems": 600,
+        "time": 72000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement06": {
+        "uid": "basement06",
+        "level": 6,
+        "minLevel": 60,
+        "gold": 250000000,
+        "gems": 750,
+        "time": 86400,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement07": {
+        "uid": "basement07",
+        "level": 7,
+        "minLevel": 64,
+        "gold": 350000000,
+        "gems": 1000,
+        "time": 129600,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement08": {
+        "uid": "basement08",
+        "level": 8,
+        "minLevel": 68,
+        "gold": 400000000,
+        "gems": 1250,
+        "time": 172800,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement09": {
+        "uid": "basement09",
+        "level": 9,
+        "minLevel": 72,
+        "gold": 500000000,
+        "gems": 1500,
+        "time": 216000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement10": {
+        "uid": "basement10",
+        "level": 10,
+        "minLevel": 75,
+        "gold": 650000000,
+        "gems": 1750,
+        "time": 259200,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement11": {
+        "uid": "basement11",
+        "level": 11,
+        "minLevel": 78,
+        "gold": 750000000,
+        "gems": 2000,
+        "time": 302400,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement12": {
+        "uid": "basement12",
+        "level": 12,
+        "minLevel": 81,
+        "gold": 1000000000,
+        "gems": 2250,
+        "time": 345600,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement13": {
+        "uid": "basement13",
+        "level": 13,
+        "minLevel": 84,
+        "gold": 1500000000,
+        "gems": 2500,
+        "time": 388800,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement14": {
+        "uid": "basement14",
+        "level": 14,
+        "minLevel": 87,
+        "gold": 2000000000,
+        "gems": 2750,
+        "time": 432000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement15": {
+        "uid": "basement15",
+        "level": 15,
+        "minLevel": 89,
+        "gold": 2500000000,
+        "gems": 3000,
+        "time": 504000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement16": {
+        "uid": "basement16",
+        "level": 16,
+        "minLevel": 92,
+        "gold": 3000000000,
+        "gems": 3500,
+        "time": 576000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement17": {
+        "uid": "basement17",
+        "level": 17,
+        "minLevel": 94,
+        "gold": 3500000000,
+        "gems": 4000,
+        "time": 612000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement18": {
+        "uid": "basement18",
+        "level": 18,
+        "minLevel": 95,
+        "gold": 4000000000,
+        "gems": 4500,
+        "time": 720000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement19": {
+        "uid": "basement19",
+        "level": 19,
+        "minLevel": 96,
+        "gold": 4500000000,
+        "gems": 5000,
+        "time": 828000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement20": {
+        "uid": "basement20",
+        "level": 20,
+        "minLevel": 97,
+        "gold": 5000000000,
+        "gems": 5500,
+        "time": 936000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement21": {
+        "uid": "basement21",
+        "level": 21,
+        "minLevel": 98,
+        "gold": 5500000000,
+        "gems": 6000,
+        "time": 1080000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement22": {
+        "uid": "basement22",
+        "level": 22,
+        "minLevel": 99,
+        "gold": 6000000000,
+        "gems": 6500,
+        "time": 1260000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    },
+    "basement23": {
+        "uid": "basement23",
+        "level": 23,
+        "minLevel": 99,
+        "gold": 6000000000,
+        "gems": 6500,
+        "time": 1260000,
+        "speedupGemsCurve": "0,10;1,10;60,20;900,35;57600,190;86400,750;259200,2250;604800,3750"
+    }
+}

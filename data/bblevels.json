@@ -1,0 +1,82 @@
+{
+    "bblevels": [
+        {
+            "level": 1,
+            "currency": 0,
+            "renown": 0,
+            "requirement": null
+        },
+        {
+            "level": 2,
+            "currency": 50,
+            "renown": 10,
+            "requirement": null
+        },
+        {
+            "level": 3,
+            "currency": 100,
+            "renown": 25,
+            "requirement": null
+        },
+        {
+            "level": 4,
+            "currency": 150,
+            "renown": 40,
+            "requirement": null
+        },
+        {
+            "level": 5,
+            "currency": 200,
+            "renown": 60,
+            "requirement": null
+        },
+        {
+            "level": 6,
+            "currency": 300,
+            "renown": 100,
+            "requirement": null
+        },
+        {
+            "level": 7,
+            "currency": 400,
+            "renown": 150,
+            "requirement": null
+        },
+        {
+            "level": 8,
+            "currency": 500,
+            "renown": 225,
+            "requirement": null
+        },
+        {
+            "level": 9,
+            "currency": 750,
+            "renown": 350,
+            "requirement": null
+        },
+        {
+            "level": 10,
+            "currency": 1000,
+            "renown": 500,
+            "requirement": null
+        },
+        {
+            "level": 11,
+            "currency": 1100,
+            "renown": 550,
+            "requirement": "townhall,18"
+        },
+        {
+            "level": 12,
+            "currency": 1200,
+            "renown": 600,
+            "requirement": "townhall,19"
+        },
+        {
+            "level": 13,
+            "currency": 1350,
+            "renown": 750,
+            "requirement": "townhall,20"
+        }
+    ]
+}

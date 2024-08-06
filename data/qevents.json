@@ -1,0 +1,50 @@
+{
+    "imp": {
+        "uid": "imp",
+        "base": "0.4",
+        "classes": "ranger,monk",
+        "classMod": "0.1",
+        "traits": "t_tracking",
+        "traitsMod": "0.4",
+        "time": "1.5",
+        "xp": "0",
+        "item": "0",
+        "gold": "3"
+    },
+    "excal": {
+        "uid": "excal",
+        "base": "0.25",
+        "classes": "knight,paladin",
+        "classMod": "0.2",
+        "traits": "t_leadership,t_gloriousaura",
+        "traitsMod": "0.45",
+        "time": "2",
+        "xp": "0",
+        "item": "1",
+        "gold": "0"
+    },
+    "stash": {
+        "uid": "stash",
+        "base": "0.25",
+        "classes": "thief,ninja",
+        "classMod": "0.2",
+        "traits": "t_stealth,t_invisibility",
+        "traitsMod": "0.45",
+        "time": "3",
+        "xp": "0",
+        "item": "3",
+        "gold": "5"
+    },
+    "hermit": {
+        "uid": "hermit",
+        "base": "0.25",
+        "classes": "spellcaster",
+        "classMod": "0.2",
+        "traits": "t_cartography",
+        "traitsMod": "0.45",
+        "time": "3",
+        "xp": "10",
+        "item": "0",
+        "gold": "0"
+    }
+}

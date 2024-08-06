@@ -1,0 +1,32 @@
+{
+    "guildResourceItems": [
+        {
+            "resourceTier": 1,
+            "cost": 10,
+            "qty": 25,
+            "qtyPerLvl": "4",
+            "regenRate": 28800
+        },
+        {
+            "resourceTier": 2,
+            "cost": 10,
+            "qty": 10,
+            "qtyPerLvl": "1",
+            "regenRate": 28800
+        },
+        {
+            "resourceTier": 3,
+            "cost": 15,
+            "qty": 4,
+            "qtyPerLvl": "0.5",
+            "regenRate": 28800
+        },
+        {
+            "resourceTier": 4,
+            "cost": 30,
+            "qty": 2,
+            "qtyPerLvl": "0.1",
+            "regenRate": 28800
+        }
+    ]
+}

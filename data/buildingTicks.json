@@ -1,0 +1,156 @@
+{
+    "buildingTicks": [
+        {
+            "tier": 1,
+            "ticks": 10,
+            "gold": 100,
+            "goldPick": 90,
+            "gems": 2,
+            "gemsPick": 2
+        },
+        {
+            "tier": 2,
+            "ticks": 20,
+            "gold": 200,
+            "goldPick": 180,
+            "gems": 3,
+            "gemsPick": 3
+        },
+        {
+            "tier": 3,
+            "ticks": 30,
+            "gold": 500,
+            "goldPick": 450,
+            "gems": 5,
+            "gemsPick": 4
+        },
+        {
+            "tier": 4,
+            "ticks": 50,
+            "gold": 800,
+            "goldPick": 720,
+            "gems": 7,
+            "gemsPick": 6
+        },
+        {
+            "tier": 5,
+            "ticks": 80,
+            "gold": 1400,
+            "goldPick": 1260,
+            "gems": 8,
+            "gemsPick": 7
+        },
+        {
+            "tier": 6,
+            "ticks": 100,
+            "gold": 2500,
+            "goldPick": 2250,
+            "gems": 8,
+            "gemsPick": 7
+        },
+        {
+            "tier": 7,
+            "ticks": 140,
+            "gold": 5000,
+            "goldPick": 4500,
+            "gems": 10,
+            "gemsPick": 9
+        },
+        {
+            "tier": 8,
+            "ticks": 180,
+            "gold": 8000,
+            "goldPick": 7200,
+            "gems": 10,
+            "gemsPick": 9
+        },
+        {
+            "tier": 9,
+            "ticks": 250,
+            "gold": 25000,
+            "goldPick": 22500,
+            "gems": 12,
+            "gemsPick": 11
+        },
+        {
+            "tier": 10,
+            "ticks": 310,
+            "gold": 100000,
+            "goldPick": 90000,
+            "gems": 20,
+            "gemsPick": 18
+        },
+        {
+            "tier": 11,
+            "ticks": 400,
+            "gold": 200000,
+            "goldPick": 180000,
+            "gems": 25,
+            "gemsPick": 23
+        },
+        {
+            "tier": 12,
+            "ticks": 500,
+            "gold": 350000,
+            "goldPick": 315000,
+            "gems": 30,
+            "gemsPick": 27
+        },
+        {
+            "tier": 13,
+            "ticks": 630,
+            "gold": 700000,
+            "goldPick": 630000,
+            "gems": 35,
+            "gemsPick": 32
+        },
+        {
+            "tier": 14,
+            "ticks": 750,
+            "gold": 1500000,
+            "goldPick": 1350000,
+            "gems": 40,
+            "gemsPick": 36
+        },
+        {
+            "tier": 15,
+            "ticks": 850,
+            "gold": 4000000,
+            "goldPick": 3600000,
+            "gems": 45,
+            "gemsPick": 41
+        },
+        {
+            "tier": 16,
+            "ticks": 950,
+            "gold": 10000000,
+            "goldPick": 9000000,
+            "gems": 50,
+            "gemsPick": 45
+        },
+        {
+            "tier": 17,
+            "ticks": 1040,
+            "gold": 30000000,
+            "goldPick": 27000000,
+            "gems": 100,
+            "gemsPick": 90
+        },
+        {
+            "tier": 18,
+            "ticks": 1140,
+            "gold": 50000000,
+            "goldPick": 45000000,
+            "gems": 150,
+            "gemsPick": 135
+        },
+        {
+            "tier": 19,
+            "ticks": 1235,
+            "gold": 100000000,
+            "goldPick": 90000000,
+            "gems": 250,
+            "gemsPick": 225
+        }
+    ]
+}

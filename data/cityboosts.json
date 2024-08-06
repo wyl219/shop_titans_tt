@@ -1,0 +1,38 @@
+{
+    "craftboost": {
+        "uid": "craftboost",
+        "index": 1,
+        "max": 5,
+        "cost": 25,
+        "duration": 86400,
+        "effect": "0.05",
+        "isPositive": false
+    },
+    "resboost": {
+        "uid": "resboost",
+        "index": 2,
+        "max": 5,
+        "cost": 20,
+        "duration": 86400,
+        "effect": "0.1",
+        "isPositive": true
+    },
+    "questboost": {
+        "uid": "questboost",
+        "index": 3,
+        "max": 5,
+        "cost": 15,
+        "duration": 86400,
+        "effect": "0.05",
+        "isPositive": false
+    },
+    "xpboost": {
+        "uid": "xpboost",
+        "index": 4,
+        "max": 5,
+        "cost": 10,
+        "duration": 86400,
+        "effect": "0.05",
+        "isPositive": true
+    }
+}

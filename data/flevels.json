@@ -1,0 +1,304 @@
+{
+    "flevels": [
+        {
+            "level": 1,
+            "xp": 0,
+            "energyBonus": 0,
+            "category": "guildmate"
+        },
+        {
+            "level": 2,
+            "xp": 30,
+            "energyBonus": 5,
+            "category": "guildmate"
+        },
+        {
+            "level": 3,
+            "xp": 65,
+            "energyBonus": 10,
+            "category": "guildmate"
+        },
+        {
+            "level": 4,
+            "xp": 105,
+            "energyBonus": 15,
+            "category": "guildmate"
+        },
+        {
+            "level": 5,
+            "xp": 150,
+            "energyBonus": 20,
+            "category": "guildmate"
+        },
+        {
+            "level": 6,
+            "xp": 200,
+            "energyBonus": 25,
+            "category": "guildmate"
+        },
+        {
+            "level": 7,
+            "xp": 255,
+            "energyBonus": 30,
+            "category": "guildmate"
+        },
+        {
+            "level": 8,
+            "xp": 315,
+            "energyBonus": 35,
+            "category": "guildmate"
+        },
+        {
+            "level": 9,
+            "xp": 380,
+            "energyBonus": 40,
+            "category": "guildmate"
+        },
+        {
+            "level": 10,
+            "xp": 450,
+            "energyBonus": 45,
+            "category": "acquaintance"
+        },
+        {
+            "level": 11,
+            "xp": 520,
+            "energyBonus": 50,
+            "category": "acquaintance"
+        },
+        {
+            "level": 12,
+            "xp": 590,
+            "energyBonus": 55,
+            "category": "acquaintance"
+        },
+        {
+            "level": 13,
+            "xp": 665,
+            "energyBonus": 60,
+            "category": "acquaintance"
+        },
+        {
+            "level": 14,
+            "xp": 740,
+            "energyBonus": 65,
+            "category": "acquaintance"
+        },
+        {
+            "level": 15,
+            "xp": 815,
+            "energyBonus": 70,
+            "category": "acquaintance"
+        },
+        {
+            "level": 16,
+            "xp": 895,
+            "energyBonus": 75,
+            "category": "acquaintance"
+        },
+        {
+            "level": 17,
+            "xp": 975,
+            "energyBonus": 80,
+            "category": "acquaintance"
+        },
+        {
+            "level": 18,
+            "xp": 1055,
+            "energyBonus": 85,
+            "category": "acquaintance"
+        },
+        {
+            "level": 19,
+            "xp": 1140,
+            "energyBonus": 90,
+            "category": "acquaintance"
+        },
+        {
+            "level": 20,
+            "xp": 1225,
+            "energyBonus": 95,
+            "category": "friend"
+        },
+        {
+            "level": 21,
+            "xp": 1310,
+            "energyBonus": 100,
+            "category": "friend"
+        },
+        {
+            "level": 22,
+            "xp": 1400,
+            "energyBonus": 105,
+            "category": "friend"
+        },
+        {
+            "level": 23,
+            "xp": 1490,
+            "energyBonus": 110,
+            "category": "friend"
+        },
+        {
+            "level": 24,
+            "xp": 1580,
+            "energyBonus": 115,
+            "category": "friend"
+        },
+        {
+            "level": 25,
+            "xp": 1675,
+            "energyBonus": 120,
+            "category": "friend"
+        },
+        {
+            "level": 26,
+            "xp": 1770,
+            "energyBonus": 125,
+            "category": "friend"
+        },
+        {
+            "level": 27,
+            "xp": 1865,
+            "energyBonus": 130,
+            "category": "friend"
+        },
+        {
+            "level": 28,
+            "xp": 1965,
+            "energyBonus": 135,
+            "category": "friend"
+        },
+        {
+            "level": 29,
+            "xp": 2065,
+            "energyBonus": 140,
+            "category": "friend"
+        },
+        {
+            "level": 30,
+            "xp": 2170,
+            "energyBonus": 145,
+            "category": "bestbud"
+        },
+        {
+            "level": 31,
+            "xp": 2275,
+            "energyBonus": 150,
+            "category": "bestbud"
+        },
+        {
+            "level": 32,
+            "xp": 2385,
+            "energyBonus": 155,
+            "category": "bestbud"
+        },
+        {
+            "level": 33,
+            "xp": 2495,
+            "energyBonus": 160,
+            "category": "bestbud"
+        },
+        {
+            "level": 34,
+            "xp": 2610,
+            "energyBonus": 165,
+            "category": "bestbud"
+        },
+        {
+            "level": 35,
+            "xp": 2725,
+            "energyBonus": 170,
+            "category": "bestbud"
+        },
+        {
+            "level": 36,
+            "xp": 2845,
+            "energyBonus": 175,
+            "category": "bestbud"
+        },
+        {
+            "level": 37,
+            "xp": 2965,
+            "energyBonus": 180,
+            "category": "bestbud"
+        },
+        {
+            "level": 38,
+            "xp": 3090,
+            "energyBonus": 185,
+            "category": "bestbud"
+        },
+        {
+            "level": 39,
+            "xp": 3220,
+            "energyBonus": 190,
+            "category": "bestbud"
+        },
+        {
+            "level": 40,
+            "xp": 3355,
+            "energyBonus": 195,
+            "category": "bff"
+        },
+        {
+            "level": 41,
+            "xp": 3495,
+            "energyBonus": 200,
+            "category": "bff"
+        },
+        {
+            "level": 42,
+            "xp": 3640,
+            "energyBonus": 205,
+            "category": "bff"
+        },
+        {
+            "level": 43,
+            "xp": 3790,
+            "energyBonus": 210,
+            "category": "bff"
+        },
+        {
+            "level": 44,
+            "xp": 3945,
+            "energyBonus": 215,
+            "category": "bff"
+        },
+        {
+            "level": 45,
+            "xp": 4105,
+            "energyBonus": 220,
+            "category": "bff"
+        },
+        {
+            "level": 46,
+            "xp": 4270,
+            "energyBonus": 225,
+            "category": "bff"
+        },
+        {
+            "level": 47,
+            "xp": 4440,
+            "energyBonus": 230,
+            "category": "bff"
+        },
+        {
+            "level": 48,
+            "xp": 4615,
+            "energyBonus": 235,
+            "category": "bff"
+        },
+        {
+            "level": 49,
+            "xp": 4795,
+            "energyBonus": 240,
+            "category": "bff"
+        },
+        {
+            "level": 50,
+            "xp": 5000,
+            "energyBonus": 245,
+            "category": "bff"
+        }
+    ]
+}
