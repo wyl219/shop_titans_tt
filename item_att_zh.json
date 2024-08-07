@@ -59,7 +59,7 @@
     "lTag3": "自带精萃",
     "elementAffinity": "元素亲合",
     "spiritAffinity": "精萃亲合",
-    "tag": "只有一个elemental值,似乎是是否自带元素",
+    "tag": "只有一个elemental值,似乎是是否自带元素. 后来找不到这个key了,不知道是哪出问题了",
     "discount": "折扣能量",
     "surcharge": "翻倍能量",
     "suggest": "建议能量",
