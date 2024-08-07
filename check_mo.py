@@ -16,7 +16,7 @@ def get_all():
 
 
 # 定义一个函数，用于过滤列表
-def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None, tag1_fil: list = None):
+def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None, tag1_fil: list = ["common","uncommon","flawless","epic","legendary"]):
     """
     对列表进行过滤
     :param list_all: 原始列表
@@ -38,6 +38,8 @@ def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None, tag1_fil: lis
         if tier_fil and i['tier'] > tier_fil:
             continue
         # 如果tag1_fil不为空且i['tag1']不在tag1_fil中，则跳过
+        if not i["tag1"]: i['tag1'] = 'common' # 即普通
+
         if tag1_fil and i['tag1'] not in tag1_fil:
             continue
 
@@ -66,10 +68,7 @@ def get_order_drawings(blueprint: dict, 有利润: bool = False, 有经验: bool
                 continue
 
             blueprint.update(get_bp(uid))
-            if not blueprint['tag1']:
-                blueprint['品质'] = '普通'
-            else:
-                blueprint['品质'] = ZH_JSON[blueprint['tag1'] + '_name']
+            blueprint['品质'] = ZH_JSON[blueprint['tag1'] + '_name']
             blueprint['净利润'] = v['value'] - blueprint['goldPrice']
 
             return blueprint
@@ -79,7 +78,7 @@ def get_order_drawings(blueprint: dict, 有利润: bool = False, 有经验: bool
 def show_data(list_all: list):
     print("序号\t名称\t英文名\t类别\t等级\t品质\t市场价\t净利润\t日最大经验\t金币数限制\t售卖数量限制")
     for i, blueprint in enumerate(list_all):
-        print(f"{i + 1}\t{blueprint['名称']}\t{blueprint['en_name']}\t{blueprint['装备类别']}\t{blueprint['tier']}\t"
+        print(f"{i + 1}\t{blueprint['名称']}\t{blueprint['en_name']}\t{blueprint['装备类别']}\tT{blueprint['tier']}\t"
               f"{blueprint['品质']}\t{blueprint['goldPrice']}\t{blueprint['净利润']}\t"
               f"{blueprint['日最大经验']}\t{blueprint['金币限制']}\t{blueprint['数量限制']}")
     pass
