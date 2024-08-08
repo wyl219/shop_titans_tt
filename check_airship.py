@@ -1,9 +1,7 @@
-import json
+from com.com import get_bp
+from com.data_import import ZH_JSON,  ITEM_JSON
 
-from com import get_bp
-from data_import import ZH_JSON, EN_JSON, ITEM_JSON, ITEM_TYPE_ZH
-
-from check_mo import get_all
+from com.data_import import get_all
 from check_mo import fil_list
 from check_mo import fil_data_desc
 # 计算一定数量和花费金币的情况下,那个装备利润最高

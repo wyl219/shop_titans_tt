@@ -1,10 +1,10 @@
 import copy
 import json
 
-item_json=json.load(open(r'./data/items.json','r',encoding='utf-8'))
-zh_json=json.load(open(r'./data/texts_zh.json','r',encoding='utf-8'))['texts']
-en_json=json.load(open(r'./data/texts_en.json','r',encoding='utf-8'))['texts']
-item_type_zh=json.load(open('item_type_zh.json',"r",encoding='utf-8'))
+item_json=json.load(open(r'../data/items.json', 'r', encoding='utf-8'))
+zh_json=json.load(open(r'../data/texts_zh.json', 'r', encoding='utf-8'))['texts']
+en_json=json.load(open(r'../data/texts_en.json', 'r', encoding='utf-8'))['texts']
+item_type_zh=json.load(open('../item_type_zh.json', "r", encoding='utf-8'))
 print(item_json)
 # 把字典改为uid为key的汉化字典,包含常用数据
 new_dict={}
@@ -27,5 +27,5 @@ for k,v in item_json.items():
 
     pass
 
-json.dump(new_dict,open(r'./item_zh.json','w',encoding='utf-8'),ensure_ascii=False,indent=4)
+json.dump(new_dict, open(r'../item_zh.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=4)
 print(new_dict)

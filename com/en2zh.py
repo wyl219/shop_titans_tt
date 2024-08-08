@@ -1,7 +1,7 @@
 # 英译汉
 import json
-zh_json=json.load(open(r'./data/texts_zh.json','r',encoding='utf-8'))['texts']
-en_json=json.load(open(r'./data/texts_en.json','r',encoding='utf-8'))['texts']
+zh_json=json.load(open(r'../data/texts_zh.json', 'r', encoding='utf-8'))['texts']
+en_json=json.load(open(r'../data/texts_en.json', 'r', encoding='utf-8'))['texts']
 
 # json.dump(en_json,open(r'./data/texts_en.json','w',encoding='utf-8'),ensure_ascii=False,indent=4)
 

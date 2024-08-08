@@ -1,6 +1,5 @@
 import copy
-import json
-from data_import import ZH_JSON, EN_JSON, ITEM_JSON, ITEM_TYPE_ZH
+from com.data_import import ZH_JSON, EN_JSON, ITEM_JSON, ITEM_TYPE_ZH
 
 MUNDRA_PRICE = dict(
     mundrahammer=700000,
@@ -64,7 +63,13 @@ def get_bp(uid):
         单工人经验 = int(item_data['craftXp'] / 2)
     else:
         单工人经验 = item_data['craftXp']
-
+    # 判断图纸是否有1.25里程碑
+    for  i in range(1, 6):
+        if "value" in item_data['upgrade' + str(i)]:
+            里程碑价格加成=float(item_data['upgrade' + str(i)].split("*")[1])
+            break
+        else:
+            里程碑价格加成=1
     return locals()  # 返回所有本地变量
 
 
@@ -104,9 +109,9 @@ def 金币格式转换(金币, s2i=False):
 
 
 if __name__ == '__main__':
-    # uid='mundraamulet'
-    # p="123"
-    # a=get_bp(uid)
+    uid='mundraamulet'
+    p="123"
+    a=get_bp(uid)
     # 测试代码
     print(金币格式转换(1100000))  # 输出: 1.1M
     print(金币格式转换("1.1M", s2i=True))  # 输出: 1100000

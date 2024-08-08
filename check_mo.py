@@ -1,18 +1,10 @@
-import json
-
-from com import get_bp
-from data_import import ZH_JSON, EN_JSON, ITEM_JSON, ITEM_TYPE_ZH
+from com.com import get_bp
+from com.data_import import ZH_JSON,ITEM_JSON ,get_all
 
 
 # 计算一定数量和花费金币的情况下,那个装备利润最高
 
-def get_all():
-    BASE_URL = r'https://smartytitans.com/'
-    API_URL = r'api/item/last/all'
 
-    import requests
-
-    return json.loads(requests.get(BASE_URL + API_URL).text)['data']
 
 
 # 定义一个函数，用于过滤列表

@@ -29,14 +29,14 @@
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
-from en2zh import en2zh
+from com.en2zh import en2zh
 
 def edit_head(cell_content):
     # 这里可以添加对表头内容的处理逻辑
     return cell_content
 
 # 读取xlsx文件
-file_path = "1.xlsx"
+file_path = "../1.xlsx"
 output_path = "./2.xlsx"
 df = pd.read_excel(file_path)
 

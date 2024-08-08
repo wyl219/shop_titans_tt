@@ -7,5 +7,5 @@ import json
 
 a=requests.get(BASE_URL+API_URL)
 print(a.text)
-json.dump(a.json(),open('list_all.json','w'),indent=4)
+json.dump(a.json(), open('../list_all.json', 'w'), indent=4)
 print(a.status_code)
