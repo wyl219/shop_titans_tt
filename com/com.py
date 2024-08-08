@@ -16,7 +16,11 @@ MUNDRA_PRICE = dict(
 def get_bp(uid):
     item_data = copy.deepcopy(ITEM_JSON[uid])  # 直接再原始数据上修改,会导致重复调用后出错
     en_name = EN_JSON[uid + '_name']
-    名称 = ZH_JSON[uid + '_name']
+    try:
+        名称 = ZH_JSON[uid + '_name']
+    except KeyError:
+        名称 = '未找到'
+
     装备类别 = ITEM_TYPE_ZH[item_data['type']]
 
     # 如果图纸是箱子图 经验是要附加上附魔的部分的

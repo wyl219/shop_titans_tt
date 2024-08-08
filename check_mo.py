@@ -1,14 +1,12 @@
 from com.com import get_bp
-from com.data_import import ZH_JSON,ITEM_JSON ,get_all
+from com.data_import import ZH_JSON, ITEM_JSON, get_all
 
 
 # 计算一定数量和花费金币的情况下,那个装备利润最高
 
-
-
-
 # 定义一个函数，用于过滤列表
-def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None, tag1_fil: list = ["common","uncommon","flawless","epic","legendary"]):
+def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None,
+             tag1_fil: list = ["common", "uncommon", "flawless", "epic", "legendary"]):
     """
     对列表进行过滤
     :param list_all: 原始列表
@@ -30,7 +28,7 @@ def fil_list(list_all, tType_fil: str = 'o', tier_fil: int = None, tag1_fil: lis
         if tier_fil and i['tier'] > tier_fil:
             continue
         # 如果tag1_fil不为空且i['tag1']不在tag1_fil中，则跳过
-        if not i["tag1"]: i['tag1'] = 'common' # 即普通
+        if not i["tag1"]: i['tag1'] = 'common'  # 即普通
 
         if tag1_fil and i['tag1'] not in tag1_fil:
             continue
